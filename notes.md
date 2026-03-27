@@ -289,3 +289,296 @@ Entender que o processo do Scrum é baseado em um modelo de trabalho iterativo, 
 Reconhecer os principais benefícios de utilizar o Scrum em negócios, incluindo projetos de empresas que não são da área de TI. Entre esses benefícios estão: uma visão sistêmica do projeto, que auxilia gestores a enxergarem os problemas que impedem a produtividade e a eficiência do time; um maior alinhamento entre a equipe, fator que auxilia na colaboração, na autonomia e na motivação do time; possibilidade de medir o tempo de execução de cada tarefa para aumentar a agilidade dos processos de projeto; redução do desperdício de recursos e tempo, o que resulta na entrega de uma solução mais assertiva e de acordo com as necessidades das pessoas usuárias.
 Compreender que, por ter uma estrutura flexível e funcional, o Scrum Framework pode ser adaptado a diferentes tipos de problemas de negócio. Porém, apenas em projetos em que os requisitos não são plenamente conhecidos ou que podem mudar durante o desenvolvimento do produto.
 
+#27/03/2026
+
+@02-Scrum Framework
+
+@@01
+Pilares e valores do Scrum
+
+Na aula anterior, conhecemos a origem do Scrum. Também entendemos como o Framework pode ser aplicado em diferentes contextos, além do desenvolvimento de softwares.
+Nessa aula, conheceremos os principais pilares e valores que norteiam a aplicação desse Framework.
+
+Se pararmos para pensar, a maioria das profissões tem pilares, ou seja, valores e diretrizes que orientam a prática profissional.
+
+Profissionais da área da saúde, como a medicina, devem prezar pelo bem-estar e vida do paciente. É pautado nessas premissas que esses profissionais tomam decisões no ambiente de trabalho.
+
+Trazendo esse contexto para o Scrum, a lógica é a mesma. Na prática, uma das maiores dificuldades encontradas no momento de aplicação do Scrum é a mudança de mindsetting que a ferramenta exige.
+
+Isso, porque não adianta aplicá-la sem antes mudar a mentalidade da empresa ou entender a lógica que envolve todo o Scrum. Por isso é muito importante entender o motivo pelo qual isso será feito, antes de realmente colocar em prática. Ter esse conhecimento faz toda diferença na tomada de decisão de um projeto.
+
+Os 3 pilares do Scrum
+O Scrum possui três pilares fundamentais que baseiam toda e qualquer prática.
+
+Esses pilares, inclusive, estão no Scrum Guide que apresentamos anteriormente.
+Cada um desses pilares fazem diferença no momento de implementação do Scrum em um projeto.
+
+1- Transparência
+
+Esse pilar define que todas as informações relevantes que envolvem o projeto estejam acessíveis para todos os profissionais responsáveis pela entrega de resultados.
+
+Isso significa que essas pessoas devem saber o que é esperado em relação à solução que está sendo desenvolvida, além de tudo o que for importante para aplicação dessa solução.
+
+A transparência ocorre principalmente por meio da comunicação, algo extremamente importante para o Scrum. A comunicação pode acontecer de forma verbal ou não verbal, geralmente em reuniões do time e apresentações de resultados.
+
+2- Inspeção
+
+Esse pilar prega que toda e qualquer questão relacionada ao projeto deve ser verificada periodicamente. Essa ação contribui para que possíveis problemas ou situações diversas sejam identificadas e solucionadas a tempo.
+
+Se o time está atento ao que está acontecendo é possível propor melhorias durante o próprio processo de desenvolvimento ao invés de esperar o produto ou serviço ficar pronto.
+
+Um exemplo de inspeção no Scrum é a reunião de retrospectiva na qual os profissionais se reúnem para avaliar o processo de trabalho. Nesse encontro é possível discutir o que foi positivo e negativo na sprint anterior.
+
+A partir desse diálogo, é possível melhorar o processo de trabalho na sprint seguinte, tornando o desenvolvimento da solução mais efetivo e assertivo.
+
+3- Adaptação
+
+A adaptação está diretamente relacionada ao pilar anterior. Quando o time realiza a inspeção geralmente surgem adaptações que precisam ser aplicadas. Isso ocorre não só no processo de trabalho do time, como na própria solução que está sendo desenvolvida.
+
+Um exemplo no qual é levantado possíveis adaptações é na reunião de retrospectiva.
+Framework
+Além desses pilares que servem com base para a aplicação do Scrum, o Framework também tem seu próprio conjunto de valores que deve ser seguido pelos membros do time
+
+1- Compromisso
+
+O primeiro valor é o compromisso. Isso, porque cada membro do time deve sempre se comprometer a seguir as regras do Framework e atender os objetivos planejados no início do projeto.
+
+Além disso, é preciso que as pessoas envolvidas estejam comprometidas a melhorar seu próprio processo de trabalho para serem mais efetivos como time.
+
+2- Foco
+
+Esse valor prega que os membros do time atuem em pequenos ciclos de trabalho por um tempo pré-determinado. Isso ajuda a manter o foco nas tarefas listadas no ciclo no qual o profissional se encontra.
+
+É preciso entender que no Scrum não é recomendado ser uma pessoa multitarefas. O ideal é sempre trabalhar em uma etapa por vez, focando toda energia e disposição para resolver determinado problema.
+Fazendo isso é possível ter mais produtividade e concentração para entregar o melhor resultado possível em cada ciclo de trabalho.
+
+3- Abertura
+
+Para que o time possa trabalhar de forma interativa, é preciso que todos estejam abertos a novos aprendizados. Também preciso de flexibilidade para encarar diferentes mudanças e desafios que normalmente acontecem no projeto.
+
+Lembre-se que no Scrum nada é estático. Sendo assim, é essencial que o time esteja disposto a receber feedbacks, seja de outras pessoas do time ou stakeholders.
+Essa atitude é fundamental para que toda equipe consiga trabalhar de forma coerente, além de estar sempre em busca da melhor solução para o projeto.
+
+4- Respeito
+
+Por ser um processo inteiramente colaborativo, no Scrum todas as pessoas devem considerar as diferentes percepções e opiniões dos outros membros, respeitando-as. Todas as decisões técnicas definidas durante o projeto devem ser respeitadas por todos.
+
+5- Coragem
+
+A coragem significa que os profissionais devem aceitar desafios, ou seja, trabalhar e se dedicar na resolução de problemas diversos. Quando necessário, também é preciso expor para o time o que está acontecendo de errado.
+
+Esse pilar também significa que as pessoas precisam ter coragem para aceitar as falhas, afinal elas acontecem e isso é normal. É preciso aprender com os erros para poder evoluir no projeto.
+
+No próximo vídeo aprenderemos mais sobre o Framework, seu passo a passo e o fluxo de processo.
+
+Te esperamos lá!
+
+@@02
+Pilares Scrum
+
+Os Pilares Scrum são elementos fundamentais sobre os quais o Scrum foi criado.
+Qual é o papel dos três pilares Scrum - Transparência, Inspeção e Adaptação - na aplicação do framework?
+
+São apenas conceitos teóricos que explicam a origem do Scrum e não possuem aplicação prática durante um projeto.
+ 
+Alternativa incorreta
+São fundamentais para o sucesso do Scrum e devem ser aplicados em todas as atividades e etapas do framework, independentemente do tipo de projeto.
+ 
+Os três pilares do Scrum - Transparência, Inspeção e Adaptação - são conceitos fundamentais que sustentam a eficácia do framework Scrum. A transparência refere-se à clareza e à visibilidade de todas as informações relevantes sobre o trabalho realizado pelo time Scrum. A inspeção envolve a avaliação constante do trabalho realizado e dos resultados obtidos para identificar problemas e oportunidades de melhoria. A adaptação implica em ajustar e melhorar continuamente o processo de trabalho com base nas informações obtidas durante a inspeção. Tenha em mente que esses três pilares são interdependentes e essenciais para garantir a melhoria contínua e o sucesso do Scrum em projetos ágeis.
+Alternativa incorreta
+São opcionais e podem ser ignorados de acordo com o tipo de projeto que está em desenvolvimento.
+ 
+Alternativa incorreta
+São importantes apenas na primeira vez que a empresa utiliza Scrum, não sendo relevantes no longo prazo em outros projetos executados.
+
+@@03
+Scrum Framework
+
+Aprendemos na aula anterior que o Scrum é um Framework, ou seja, uma ferramenta que ajuda a gerenciar projetos de forma ágil.
+O Scrum tem uma estrutura simples e flexível, capaz de ser adaptada a diferentes contextos e projetos. Porém, é importante que você saiba que para aplicá-lo corretamente é preciso seguir alguns passos e delegar algumas funções.
+
+Na prática, quando as empresas usam o Scrum acabam fazendo muitas adaptações no processo. Isso pode se transformar em um problema, afinal, essa ferramenta é eficaz justamente devido à lógica de aplicação.
+
+Vamos descobrir como começar a utilizar o Scrum em projetos.
+
+Estrutura do Scrum
+Para começar a aplicar o Scrum é preciso entender a estrutura da ferramenta e os principais elementos que compõem o Framework.
+
+Esse conhecimento é fundamental para compreender seu funcionamento e consequentemente como colocá-lo em prática no seu projeto.
+
+De forma geral, a estrutura do Scrum é simples. Porém, existem algumas diretrizes gerais que orientam o processo de projeto.
+
+Diferente de outras metodologias e ferramentas de negócio, o Scrum não oferece um passo a passo detalhado de como deve ser executado. Ao invés disso, o Framework orienta valores, funções e interações.
+
+Valores
+Os valores são responsáveis por guiar todo processo de decisão ao longo do projeto, por isso, são muito importantes.
+
+Funções
+Se referem ao ato de delimitar quais pessoas vão desempenhar determinados papeis no processo de projeto.
+
+Interações
+Além disso, também é preciso que durante todo esse processo os profissionais tenham interações. Isso irá fazer com que o time consiga entregar um produto, serviço ou solução na melhor qualidade e menor tempo possível.
+
+O Framework possui alguns elementos-chave, sendo eles os:
+
+Papéis;
+Artefatos;
+Eventos.
+Cada um desses componentes são essenciais para garantir o sucesso do seu projeto.
+
+Papéis
+Os papéis se referem a ocupação que cada membro deve ter no projeto. O Scrum delimita três papéis fundamentais, sendo eles:
+
+Scrum Master;
+Product Owner;
+Development Team.
+Usamos as nomenclaturas em inglês, pois nesse curso estamos usando como base o Srum Guide. No Brasil, o Product Owner é geralmente chamado de PO ou dono do produto. O time de desenvolvimento pode ser chamado de devs ou developers.
+Artefatos
+O segundo elemento do Scrum são os artefatos, ou seja, as informações essenciais para o andamento correto do projeto. É a partir disso que toda equipe consegue orientar seu trabalho, ou seja, saber o que está acontecendo e o que deve ser entregue.
+
+Lembra do pilar chamado transparência? Ele está diretamente relacionado aos artefatos, afinal, quanto mais informação acessível o time tiver, maior será a efetividade do trabalho.
+Alguns artefatos fundamentais são:
+
+Product backlog;
+Sprint backlon;
+Incrementos.
+Eventos
+Os eventos são encontros fixos que o time tem ao longo do desenvolvimento do projeto. São momentos de interação planejados e essenciais, pois possuem uma data e horário fixo, justamente para otimizar a agenda e evitar que o foco seja perdido.
+
+Cada evento é uma oportunidade para colocar em prática outro pilar do Scrum, a inspeção.
+
+Lembrando que a inspeção é quando analisamos o que está sendo feito. Fazer isso nas reuniões é muito positivo para toda equipe.
+O Scrum Guide define cinco diferentes eventos oficiais:
+
+Sprint planning;
+Sprint, Daily Scrum;
+Sprint review.;
+Sprint Retrospective.
+No Brasil a Sprint review pode ser chamada de reunião de revisão, assim como a Sprint Retrospective de reunião de retrospectiva.
+Nas próximas aulas aprenderemos de forma detalhada cada um desses elementos.
+
+Processo do Scrum
+No processo do Scrum há uma definição de ciclos de trabalho e profissionais responsáveis.
+
+Esquema representando a estrutura do Scrum. Do lado esquerdo da tela, visualizamos três artefatos do Scrum e os papeis das pessoas responsáveis por essas atividades. O primeiro é o Product backlog feito pelo Product owner, seguido pela Sprint planning e a Sprint backlog, ambas feitas por todo o time. Dessa estrutura, sai uma seta, apontando para o restante do processo Scrum composto pela Sprint semanal, organizada pelo Scrum Master, a Daily Scrum e os incrementos responsável por todo o time
+
+O fluxo de trabalho do Scrum é totalmente interativo e incremental, ou seja, a solução vai sendo desenvolvida em pequenos ciclos de trabalho até a versão final ser entregue.
+
+Dessa forma é possível desenvolver uma determinada solução e avaliar como ela está se comportando, antes de entregá-la.
+
+É preciso lembrar que a ideia central do Scrum é adicionar valor a solução que está sendo desenvolvida.
+Agora, vamos descobrir como o Scrum funciona. Tudo começa com o Product owner ou dono do produto, que irá representar o usuário final ou o cliente do projeto. Esse profissional é o responsável por estabelecer as prioridades do projeto e as necessidades do cliente.
+
+A partir disso ele irá elaborar um artefato chamado Product backlog, uma lista com todas essas necessidades, funcionalidades e detalhes essenciais para desenvolvimento da solução.
+
+O product backlog norteia todo o trabalho da equipe de desnvolvimento, por isso é muito importante que ele seja detalhado e bem orientado.
+Antes de começar a desenvolver de fato a solução, a equipe de desenvolvimento se reúne em um evento chamado Sprint planing. Nela, o o time analisa o Product backlog e começa a planejar como será o trabalho futuro.
+
+Em seguida, a equipe começa a dividir o trabalho em pequenos ciclos com tempo pré-determinado, as Sprints. Nessa etapa o time irá fazer a divisão de trabalho e determinar quais tipos de atividades devem ser cumpridas em cada um dos ciclos de trabalho.
+
+Normalmente as sprints ocorrem entre uma e quatro semanas. Isso dependerá do tipo de projeto.
+Logo após acontece a Sprint backlog, nela são levantados os objetivos de cada sprint, assim como as atividades e pessoas que devem realizá-las.
+
+Seguindo o fluxo de trabalho, o time de desenvolvimento inicia uma sprint e começa a desenvolver a solução.
+
+Nesse processo também ocorrem as Dailys scrum, reuniões diárias de alinhamento entre a equipe sobre o que está sendo feito na sprint, além levantar e solucionar possíveis problemas na execução.
+
+No fim de cada Sprint o time de desenvolvimento entrega o incremento do produto ou serviço, podendo ser algo que possa ser usado ou testado pelo usuário final, equipe e stakeholders.
+
+A apresentação do incremento ocorre em um evento chamado Sprint review ou revisão da Sprint. Nela também é discutido os desafios enfrentados no desenvolvimento do produto, o que pode ser melhorado ou acrescentado.
+
+Depois disso, o time se reúne em outro evento chamado Sprint retrospectiv ou retrospectiva da Sprint, nesse momento o time avalia todo o processo de trabalho, levantando pontos de melhoria para a próxima sprint.
+
+Após essas etapas, o ciclo de trabalho se reinicia.
+Com o fluxo de trabalho do Scrum a solução vai sendo desenvolvida e avaliada de forma simultânea. Isso faz com que no fim do processo o produto seja mais assertivo.
+
+É muito importante que você aprofunde o conhecimento nos principais elementos do Scrum. Esse conhecimento é fundamental para que você e toda equipe consigam aplicá-lo da melhor forma possível.
+
+Isso envolve entender quem deve desempenhar cada um dos papéis propostos pelo Framework, como quando realizar cada um dos eventos ou quando criar cada um dos artefatos apresentados nessa aula.
+
+Na aula seguinte, aprenderemos quais são os principais papeis do Scrum e as competências necessárias.
+
+Te esperamos lá!
+
+https://cdn1.gnarususercontent.com.br/1/1319051/5a696799-f6c9-4949-86d7-23c48f4b0afa.jpg
+
+@@04
+Para saber mais: Scrum Guide
+
+O Scrum Guide (ou Guia do Scrum) é um documento oficial que explica o Scrum e orienta a sua aplicação de forma clara e direta. Ele foi desenvolvido por Jeff Sutherland e Ken Schwaber, seus fundadores, ao longo de mais de 20 anos. O documento é mantido por duas instituições: Scrum.org e Scrum Alliance. Essas instituições oferecem cursos e certificações relacionados ao Scrum.
+Toda e qualquer mudança no Scrum Guide é feita por seus fundadores, Ken Schwaber e Jeff Sutherland. Além deles, há os Professional Scrum Trainers (PSTs), que são treinadores certificados que também contribuem para a evolução do Scrum, fornecendo sugestões de melhoria para o documento e sua aplicação em casos reais.
+
+O documento descreve os princípios, os valores e as práticas do Scrum, incluindo os papéis de Scrum Master, Product Owner e Time de Desenvolvimento, e os eventos Scrum. Também aborda os artefatos do Scrum e as regras para a colaboração efetiva da equipe.
+
+O Scrum Guide serve como uma referência essencial para aqueles que desejam entender e implementar o framework em suas equipes de trabalho, fornecendo uma base sólida para a adoção de práticas ágeis e o desenvolvimento de produtos de forma iterativa e adaptável. Além disso, é a base para qualquer pessoa que deseja ter uma certificação oficial Scrum.
+Faça o download do Scrum Guide 2020 e tenha acesso a esse documento-chave sobre o Scrum.
+
+https://www.scrum.org/
+
+https://www.scrumalliance.org/
+
+https://scrumguides.org/index.html
+
+@@05
+Para saber mais: certificações oficiais Scrum
+
+No contexto de gerenciamento de projetos, um dos conhecimentos mais solicitados é o Scrum. Ter uma certificação nessa área pode contribuir muito para a construção de uma carreira promissora.
+As certificações oficiais Scrum são oferecidas pelas organizações Scrum.org e Scrum Alliance e são reconhecidas internacionalmente como validação do conhecimento e habilidades em Scrum.
+
+Essas certificações são importantes em carreiras profissionais por várias razões. Conheça algumas delas:
+
+Demonstração de conhecimento: as certificações Scrum atestam que o profissional possui um conhecimento sólido sobre os princípios, as práticas e os papéis do Scrum, bem como sobre a sua aplicação em projetos reais. Isso pode ser uma forma de demonstrar aos empregadores ou clientes que a pessoa profissional possui habilidades necessárias para aplicar o Scrum de forma eficaz.
+Credibilidade no mercado: as certificações oficiais Scrum são amplamente reconhecidas e respeitadas no mercado de trabalho, sendo uma forma de aumentar a credibilidade profissional. Ter uma certificação Scrum pode ajudar a pessoa a se destacar em um mercado competitivo e abrir portas para oportunidades de carreira.
+Valorização salarial: a posse de uma certificação Scrum pode estar associada a um aumento salarial ou a melhores oportunidades de remuneração. Muitas organizações valorizam a expertise em Scrum e estão dispostas a recompensar as pessoas certificadas com salários mais altos ou benefícios adicionais.
+Oportunidades de desenvolvimento profissional: as certificações Scrum geralmente requerem a obtenção de conhecimento atualizado e a participação em atividades de aprendizagem contínua, como treinamentos e workshops. Isso pode ajudar as pessoas profissionais a se manterem atualizados com as melhores práticas do Scrum e a aprimorarem as suas habilidades, o que pode ter um impacto positivo em sua carreira a longo prazo.
+Reconhecimento internacional: as certificações Scrum são reconhecidas globalmente, o que pode ser especialmente relevante para profissionais que buscam oportunidades de trabalho em outros países ou em empresas com presença internacional. Ter uma certificação Scrum pode ajudar a abrir portas em diferentes mercados e ampliar as opções de carreira.
+Ao fim deste curso, você terá uma base para aprofundar os seus estudos em Scrum. Porém, para obter as certificações oficiais, é preciso realizar um exame baseado no Scrum Guide.
+Mas, afinal, como escolher uma certificação Scrum?
+
+Para buscar uma certificação Scrum, há dois pontos principais que você deve levar em consideração: a empresa que fornece o certificado e as habilidades certificadas. Como o objetivo é adquirir credibilidade, além do título atrelado ao certificado, é muito importante que a empresa credenciada tenha autoridade na área, para que você invista tempo e dinheiro em algo que seja reconhecido pelo mercado, certo?
+
+Agora conheça as principais certificações oficiais Scrum:
+
+Certificações Scrum.org:
+Professional Scrum Master (PSM): certificação para profissionais que desejam comprovar seus conhecimentos sobre o Scrum e sua aplicação como Scrum Master, que é o facilitador e líder de um time Scrum.
+Professional Scrum Product Owner (PSPO): certificação para profissionais que desejam comprovar seus conhecimentos sobre o Scrum e sua aplicação como Product Owner, que é o responsável por maximizar o valor do produto desenvolvido pelo time Scrum.
+Professional Scrum Developer (PSD): certificação para profissionais que desejam comprovar seus conhecimentos técnicos em desenvolvimento de software usando o Scrum como framework ágil.
+Certificações Scrum Alliance:
+Certified ScrumMaster (CSM): certificação para profissionais que desejam comprovar seus conhecimentos sobre o Scrum e sua aplicação como Scrum Master.
+Certified Scrum Product Owner (CSPO): certificação para profissionais que desejam comprovar seus conhecimentos sobre o Scrum e sua aplicação como Product Owner.
+Certified Scrum Developer (CSD): certificação para profissionais que desejam comprovar seus conhecimentos técnicos em desenvolvimento de software usando o Scrum como framework ágil.
+De forma geral, para obter uma certificação oficial Scrum, é necessário percorrer as seguintes etapas:
+
+Adquirir conhecimento em Scrum: é fundamental estudar o Guia do Scrum, que é o documento oficial que define as regras, os papéis e as práticas do Scrum. Além disso, é recomendado participar de treinamentos ministrados por instituições credenciadas, como a Scrum.org ou Scrum Alliance, que oferecem cursos preparatórios para as certificações Scrum.
+Preparar-se para o exame: as certificações Scrum, geralmente, são obtidas por meio de exames on-line. É importante revisar o conteúdo do Guia do Scrum e outros materiais de estudo recomendados, como livros, artigos e vídeos para se familiarizar com o formato e o estilo de perguntas dos exames de certificação Scrum. Outros pontos que devem ser considerados são: no caso do Scrum.org, o investimento é em dólar; e a prova é em inglês. Se você não possui muita familiaridade com o idioma, é possível usar um plugin para tradução da prova. Verifique quais as opções disponíveis para o seu navegador e faça alguns simulados antes de realizar este investimento.
+Agendar e realizar o exame: após se sentir preparado, agende o exame de certificação Scrum por meio do site da instituição responsável pela certificação. Os exames, geralmente, são realizados on-line, com questões de múltipla escolha, e possuem um tempo limitado para serem concluídos. Leia atentamente as instruções antes de iniciar o exame e gerencie seu tempo adequadamente.
+Passar no exame: para obter a certificação Scrum, é necessário atingir uma pontuação mínima estabelecida pela instituição responsável pelo exame. Certifique-se de responder a todas as perguntas com cuidado e revisar suas respostas antes de finalizar o exame.
+Manter a certificação: algumas certificações Scrum têm requisitos de renovação periódica, como a realização de atividades de educação continuada ou a participação em eventos de atualização profissional. Certifique-se de compreender os requisitos de manutenção da certificação e cumprir com eles para manter a sua certificação válida.
+Lembre-se de que os detalhes específicos do processo de certificação podem variar dependendo da organização certificadora e do tipo de certificação Scrum que você deseja obter. É importante verificar os requisitos e os procedimentos detalhados no site da instituição responsável pela certificação que você está buscando.
+
+@@06
+Etapas Scrum
+
+Embora o Scrum seja um framework iterativo e adaptável a diferentes tipos de projeto, existem algumas etapas necessárias para a sua correta aplicação.
+Quais são essas etapas na sequência correta?
+
+Planejamento do produto, Planejamento da Sprint e Execução da Sprint.
+ 
+Alternativa incorreta
+Planejamento do produto, Planejamento da Sprint, Execução da Sprint, Revisão e Retrospectiva da Sprint.
+ 
+Esta é a sequência correta das etapas do framework Scrum: primeiro, há o Planejamento do Produto, para definir e priorizar os itens do Backlog do Produto. Depois, há o Planejamento da Sprint, onde o time Scrum desenvolve o Sprint Backlog. Após a execução da Sprint, ocorre a Revisão da Sprint, etapa em que o time Scrum apresenta o trabalho realizado aos stakeholders e recebe feedback sobre o produto incrementado. E fechando o ciclo temos a Retrospectiva da Sprint, etapa em que o time Scrum avalia a Sprint recém realizada e identifica oportunidades de melhoria para o próximo ciclo de trabalho "sprint"
+Alternativa incorreta
+Planejamento do produto, Execução da Sprint, Revisão e Retrospectiva da Sprint.
+ 
+Alternativa incorreta
+Planejamento do produto, Planejamento da Sprint, Execução da Sprint, Retrospectiva e Revisão da Sprint.
+
+@@07
+O que aprendemos?
+
+Nesta aula, você pôde:
+Reconhecer os três pilares que norteiam a aplicação do framework Scrum, como a Transparência, a Inspeção e a Adaptação.
+Enumerar os valores do Scrum definidos pelo Scrum Guide, que devem ser seguidos ao aplicar o framework: Compromisso, Foco, Abertura, Respeito e Coragem.
+Identificar os principais componentes do framework Scrum, tais como os papéis, os eventos e os artefatos.
+Identificar o fluxo de trabalho do Scrum, que envolve: a elaboração do Product Backlog, o Planejamento (sprint planning) e a Execução da Sprint, as reuniões diárias (daily meetings) durante a Sprint, a revisão da Sprint (Sprint Review) e a Retrospectiva da Sprint (Sprint retrospective).
