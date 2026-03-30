@@ -1372,3 +1372,221 @@ Nesta aula, você pôde:
 Reconhecer detalhadamente os eventos (Sprint: Sprint Planning, Daily Scrum, Sprint Review e Sprint Retrospective) e os artefatos (Product backlog, Sprint backlog, Incremento) do Scrum Framework.
 Identificar como construir um product backlog efetivo, que envolve um documento detalhado, claro e objetivo que esteja de acordo com as necessidades de cliente/usuário e também sempre acessível a todo time.
 Entender como facilitar uma Sprint Planning (momento de planejar o que vai ser feito na sprint, gerando um sprint Backlog), Sprint Review (momento que o time usa para inspecionar o incremento entregue na sprint) e Sprint Retrospective (momento final da sprint, para revisar o trabalho que foi feito pela equipe e identificar gargalos e melhorias no processo de trabalho).
+
+#30/03/2026
+
+@05-Scrum na prática
+
+@@01
+Gerenciando um time Scrum
+
+Saber montar e gerenciar um time Scrum é extremamente importante para o sucesso do seu projeto, independente da solução que será criada.
+O primeiro passo é focar nas pessoas envolvidas, afinal, são elas que farão o Framework funcionar de forma eficiente.
+
+Falhas no gerenciamento
+Empresas que aderem o Scrum e não gerenciam bem a equipe acabam sofrendo com alguns contratempos.
+
+Um exemplo é o baixo comprometimento, isso faz com que os profissionais nem sempre se esforcem em suas entregas. Além disso, um time que não está motivado pode acabar perdendo o foco do que realmente precisa ser feito, isso pode prejudicar todo o projeto.
+
+Também pode ocorrer atrasos do cronograma caso o gestor não defina prazos e cronogramas com toda a equipe.
+
+A falta de clareza e prioridades também é um problema que pode surgir. É muito importante que toda a equipe esteja integrada aos objetivos do projeto.
+
+Além disso, todos esses problemas também podem causar desperdício de tempo e de recursos, seja financeiro, material ou intelectual.
+
+Como gerenciar um time Scrum
+O primeiro passo é deixar evidente e acessível os propósitos e objetivos do projeto. Todos os profissionais envolvidos precisam saber o que e como essa solução será aplicada. Assim os profissionais poderão se dedicar e colaborar a alcançar esses objetivos.
+
+Saber definir papéis e responsabilidades também é essencial. A liderança precisa avaliar os profissionais e entender quais se encaixam em determinadas funções. Isso também deve acontecer na definição e delegação de tarefas que acontecem nas sprints.
+
+Um bom gerenciamento também envolve uma boa comunicação, afinal, o time Scrum é composto por várias pessoas que precisam se comunicar para estarem alinhadas. É importante que a liderança dê esse suporte.
+
+Ao cumprir esses critérios é possível ter uma equipe engajada e capaz de desenvolver soluções de forma ágil. Porém, além de gerenciar é essencial saber como montar um time Scrum.
+
+Como montar um time Scrum
+Para montar um time Scrum do início você pode seguir um passo a passo.
+
+1- Escolha dos membros
+
+Geralmente times menores são mais produtivos que maiores, por isso, um dos critérios para a montagem do time é uma equipe enxuta.
+
+Também é importante que os profissionais sejam multifuncionais, ou seja, tenham formações diferentes e habilidades que se complementem.
+
+Além disso, também é necessário que sejam colaborativas e comprometidas, só assim será possível atingir os objetivos do projeto.
+
+2- Definição dos papéis
+
+Na etapa de definição dos papéis, primeiro é preciso escolher alguém para o cargo de Product Owner. É necessário que seja uma pessoa profissional com amplo conhecimento do negócio, produto e cliente.
+
+Como uma das responsabilidades é a intermediação com todas as pessoas do time, essa escolha deve ser feita de forma estratégica.
+O segundo passo é a definição da pessoa Scrum Master, que deve ter um perfil comunicativo e gerencial. Isso porque uma das suas responsabilidades será transitar entre os membros e identificar se o Scrum está sendo aplicado de forma correta.
+
+Isso significa que esse profissional precisa ter um amplo conhecimento do Framework, seus pilares, valores e regras, além de saber como conduzir todos os eventos.
+
+O Scrum Master também é a pessoa responsável por identificar e resolver problemas que podem surgir no desenvolvimento do projeto. Para isso, é necessário que tenha proatividade e interação com o time.
+
+O restante das pessoas vão compor o Development Team, o time de desenvolvimento. Para essa posição é necessário buscar por pessoas que tenham conhecimentos e habilidades relevantes e relacionadas a solução que está sendo desenvolvida.
+
+Imagine que você precisa reformular alguns processos de recrutamento de colaboradores. Para isso, você decide criar um projeto utilizando o Scrum.
+Nesse caso, o time de desenvolvimento teria que ser pessoas internas ou externas que entendam de processos e recursos humanos.
+
+Pensar dessa forma auxilia na escolha estratégica do time e consequentemente para o cumprimento dos objetivos.
+
+Além desses critérios, é preciso garantir que o time utilize o Framework. Isso significa que essas pessoas precisam ter uma mentalidade em comum.
+
+Características do time Scrum
+Vamos conhecer algumas características essenciais que o time deve ter para o desenvolvimento de um projeto eficiente.
+
+Autonomia
+
+O Scrum sempre irá orientar que o time tenha autonomia e consiga se autogerenciar, ou seja, tralhar de forma independente, porém seguindo o mesmo objetivo em comum. Para isso é importante que haja suporte do Scrum Master.
+
+Priorização
+
+As pessoas escolhidas para o time precisam considerar que o projeto deve conter apenas o que realmente gera valor para o cliente. É preciso evitar o que o usuário não utilizará e focar no que irá agregar.
+
+Colaboração
+
+A colaboração é muito importante para manter a união do time e para que juntos possam desenvolver e colocar em prática a solução proposta.
+
+Antes de cobrar a colaboração do time é preciso compreender se a empresa está oferecendo suporte para que isso aconteça. Isso inclui tanto a disponibilização de um espaço físico para encontros, por exemplo, como materiais específicos. A pessoa responsável por esse suporte é o Scrum Master.
+Transparência
+
+Os membros do time devem ser transparentes em relação a todo processo de trabalho. É necessário um ambiente no qual as pessoas se sintam confortáveis para expor suas ideias, opiniões e dar feedbacks.
+
+É comum que as empresas não estimulem a transparência entre a equipe. Isso porque às vezes os colaboradores estão acostumados com uma cultura na qual esse tipo de comportamento, como o feedback, é considerado algo negativo.
+
+No Scrum isso não deve acontecer, é muito importante que a transparência seja estimulada e faça parte do dia a dia. Quem deve se atentar a isso é a pessoa Product owner, responsável por saber tudo sobre o projeto.
+Adaptabilidade
+
+Como o Scrum faz parte das metodologias ágeis é preciso ter adaptabilidade. Isso significa que nada é estático, mudanças acontecem e são necessárias.
+
+Por isso é essencial não se apegar em ideias e processos, afinal, podem mudar. É necessário que os profissionais sejam flexíveis a essas mudanças tanto do projeto quanto para o nicho no qual a empresa se encaixa. Empresas de tecnologia, por exemplo, mudam a todo momento.
+
+Comunicação
+
+A comunicação além de essencial, está relacionada a colaboração. O time precisa ser comunicativo para desenvolver um projeto de sucesso.
+
+O Scrum possui alguns eventos que facilitam e estimulam a comunicação de todo o time, como a Sprint review, a Retrospectiva e a Daily scrum.
+
+Orientação a resultados
+
+Todo time precisa estar alinhado as expectativas do cliente, ou seja, do que precisa ser entregue. Como o Scrum é cíclico, é importante que ao longo desse processo de trabalho a equipe tenha foco para o cumprimento dos objetivos.
+
+Gerenciar um time Scrum pode parecer desafiador, mas com as práticas corretas e o compromisso da equipe você pode ter muito sucesso.
+
+Por isso, todos os temas que aprendemos anteriormente são muito importantes de serem incentivados constantemente pela liderança.
+
+Com todo o conhecimento adquirido nesse curso, você poderá começar um projeto utilizando o Scrum de forma muito mais fácil.
+
+@@02
+Critérios para montar um time Scrum
+
+Uma empresa que está há 50 anos no mercado resolveu comemorar essa conquista fazendo um evento para seus colaboradores, clientes e parceiros de negócios. Para realizar essa tarefa, resolveram utilizar o framework Scrum.
+A seguir, marque a alternativa correta em relação à montagem do time Scrum para esse projeto de evento corporativo.
+
+Dashboard
+Explorar Catálogo
+
+02
+Critérios para montar um time Scrum
+
+Uma empresa que está há 50 anos no mercado resolveu comemorar essa conquista fazendo um evento para seus colaboradores, clientes e parceiros de negócios. Para realizar essa tarefa, resolveram utilizar o framework Scrum.
+A seguir, marque a alternativa correta em relação à montagem do time Scrum para esse projeto de evento corporativo.
+
+Alternativa incorreta
+Deve-se selecionar apenas membros da alta administração da empresa para compor o time scrum.
+ 
+É importante ter uma equipe que representa diferentes níveis hierárquicos e áreas funcionais da empresa, para garantir uma tomada de decisão mais abrangente e considerar as necessidades e as expectativas de todas as partes interessadas envolvidas no evento.
+Alternativa incorreta
+Deve-se escolher apenas as pessoas colaboradoras com mais tempo disponível para fazer parte do time Scrum.
+ 
+Escolher apenas os funcionários e as funcionárias com mais tempo disponível pode resultar em uma equipe desequilibrada em termos de habilidades e experiência. Além disso, a disponibilidade de tempo nem sempre é o único critério relevante para a formação de uma equipe eficaz.
+Alternativa incorreta
+É preciso contratar apenas especialistas em logística para garantir uma execução perfeita do evento.
+ 
+Alternativa incorreta
+Deve-se selecionar cuidadosamente os membros do time Scrum, considerando as suas habilidades, suas experiências, sua diversidade e seus valores.
+ 
+Montar uma equipe eficaz para o planejamento de um evento corporativo envolve selecionar cuidadosamente os membros da equipe, levando em consideração suas habilidades, suas experiências, sua diversidade e seus valores. Note que isso permite que a equipe possua as competências necessárias para lidar com os desafios do planejamento e a execução do evento, incluindo logística, marketing, finanças e comunicação. Além disso, garante que o time Scrum esteja alinhado em relação aos valores que embasam o framework.
+
+@@03
+Mentalidade de um time Scrum
+
+Para que um time Scrum consiga desenvolver qualquer projeto de forma eficiente, é preciso que ele possua algumas características e modo de pensar específicos. Com base nessa informação, como é representada a mentalidade correta de um time Scrum?
+
+Esperar que a pessoa Product Owner tome todas as decisões importantes.
+ 
+O Scrum incentiva a autonomia da equipe, logo, seus membros devem ser capazes de trabalhar de forma independente, mas também colaborar para alcançar os objetivos do projeto. A pessoa Product Owner é responsável por tomar decisões relacionadas ao produto, mas o time Scrum como um todo também contribui com sua expertise.
+Alternativa incorreta
+Colaborar intensamente em todas as etapas do projeto, sendo auto-organizado e multifuncional.
+ 
+A mentalidade correta de um time Scrum é de colaboração intensa, auto-organização e multifuncionalidade. Os membros do time Scrum trabalham juntos, compartilhando conhecimentos e habilidades para alcançar os objetivos do projeto, sendo responsáveis por se organizar, tomar decisões e entregar a solução funcionando.
+Alternativa incorreta
+Trocar informações e dúvidas sobre o projeto somente com o membro que estiver disponível no momento.
+ 
+A transparência é um valor fundamental no Scrum. A equipe deve ser transparente em relação ao progresso do projeto, aos problemas e aos obstáculos que encontra, evitando concentrar a informação apenas em um membro do time. Todos da equipe devem saber o que acontece no projeto. Dessa maneira, as questões podem ser resolvidas com mais agilidade e menos estresse, evitando que falhas maiores sejam geradas no futuro.
+Alternativa incorreta
+Não testar hipóteses durante o desenvolvimento do projeto, criando, assim, uma única solução que gere valor para clientes/usuários.
+
+@@04
+Para saber mais: case Spotify
+
+Spotify e a adoção do Scrum
+Como tratado em aula, o Scrum é capaz de transformar completamente como uma organização age ou desenvolve produtos. Um exemplo de empresa que utiliza o Scrum é a Spotify. A Spotify é uma empresa de streaming de música que adotou o Scrum em 2008 para gerenciar seus projetos de desenvolvimento de software.
+
+Com o Scrum, eles conseguiram melhorar a colaboração entre as equipes de desenvolvimento, reduzir o tempo de lançamento de novos recursos e aumentar a satisfação das pessoas clientes.
+Conheça alguns detalhes sobre como a Spotify utiliza o Scrum:
+
+Times de desenvolvimento: para um trabalho mais organizado e eficiente, a Spotify divide seus times de desenvolvimento em squads (esquadrões), uma vez que a plataforma é composta por diferentes áreas e exige diferentes funcionalidades. Cada squad é composto por um grupo de desenvolvedores, um gerente de produto e um designer, sendo cada squad responsável por uma área específica do produto. Esses squads trabalham de forma autônoma, porém, ao se encontrarem nos eventos Scrum, o seu trabalho torna-se sempre alinhado e em prol de um objetivo em comum.
+
+Eventos: a Spotify sempre realiza os eventos Scrum, como Sprint Planning, Daily Scrum, Sprint Review e Sprint Retrospective. Esses eventos ajudam a manter a equipe alinhada e a garantir que o trabalho esteja sendo realizado de forma eficiente.
+
+Product Backlog: a Spotify mantém um Product Backlog que é constantemente atualizado com novas demandas do cliente e melhorias de produto, recolhidas por meio dos feedbacks de seus usuários e usuárias e também da análise de como cada cliente utiliza a plataforma. A partir disso, o Product Backlog é priorizado pela pessoa Product Owner (gerente de produto) e é utilizado para definir as metas de cada Sprint.
+
+Sprint: a Spotify utiliza sprints de duas semanas para desenvolver novos recursos e melhorias em sua plataforma. Durante a Sprint, o time trabalha em conjunto para alcançar os objetivos definidos pela pessoa Product Owner.
+
+Integração contínua: a Spotify utiliza a integração contínua para garantir que o código desenvolvido por diferentes times seja integrado de forma eficiente e sem conflitos.
+
+Por meio do uso do Scrum, a Spotify foi capaz de melhorar a colaboração entre as equipes, reduzir o tempo de lançamento de novos recursos e aumentar a satisfação das pessoas clientes. Isso tornou a Spotify uma das empresas de streaming de música mais populares do mundo.
+
+@@05
+Conclusão
+
+Parabéns por concluir o curso!
+É inspirador saber que você concluiu mais uma etapa no seu desenvolvimento profissional.
+
+Nessa jornada, aprendemos o que é o Scrum, um Framework ágil para a gestão de projetos.
+
+Além disso, também aprendemos sobre:
+
+A origem do Scrum;
+Conhecemos o processo do Scrum de forma detalhada;
+Aprendemos como aplicá-lo em diferentes projetos;
+Como conduzir os principais eventos utilizando os artefatos Scrum;
+E descobrimos como montar e gerenciar um time Scrum de forma eficiente.
+O Scrum evoluiu muito ao longo dos anos, sendo incorporado em diferentes tipos de projetos e contextos de negócio.
+
+Por isso, vale lembrar que todo conteúdo desse curso é voltado tanto para pessoas da área de tecnologia quanto outras áreas de negócios.
+
+Independente do seu foco de trabalho, ao concluir essa trajetória você aprimorou sua bagagem de conhecimento!
+
+Com o aprendizado adquirido nesse curso, você estará capacitado a:
+
+Entregar projetos de forma ágil e assertiva;
+Melhorar o processo e comunicação da equipe;
+Responder de forma ágil às mudanças do mercado;
+Reduzir o desperdício de tempo e de recursos, sendo possível entregar projetos mais alinhados às expectativas.
+Aproveite para compartilhar suas ideias e projetos no Fórum e no Canal do Discord, espaços de interação, conhecimento e resolução de dúvidas.
+
+Esperamos também pela sua avaliação do curso, sua opinião é muito importante para aprimorarmos nosso conteúdo.
+
+Até a próxima!
+
+@@06
+O que aprendemos?
+
+Nesta aula, você pôde:
+Identificar o processo de montagem de um time Scrum, que envolve a seleção das pessoas mais adequadas para cada papel que o framework aponta, a partir de suas habilidades e expertises profissionais, além da definição do tamanho do time, de acordo com o tipo de projeto.
+Reconhecer as principais características que um time Scrum deve ter, tais como autonomia, priorização, colaboração, transparência, adaptabilidade, comunicação e resultados.
+Reconhecer que tão importante quanto dominar o processo do framework Scrum é desenvolver as pessoas para colocá-lo em prática. Esse desenvolvimento se dá por meio do incentivo de uma mentalidade voltada para os valores e os princípios que embasam o Scrum.
