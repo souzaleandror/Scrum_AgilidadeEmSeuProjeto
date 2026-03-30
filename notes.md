@@ -869,3 +869,506 @@ Identificar a composição de um time scrum, que compreende o Scrum Master, o Pr
 Reconhecer quem é a pessoa Product Owner, profissional responsável por materializar as necessidades do usuário e representá-lo junto à empresa e à equipe de desenvolvimento do projeto. Assim como reconhecer qual é o seu papel dentro do Scrum, que envolve o gerenciamento eficaz do product backlog e a tomada de decisões em relação à solução em desenvolvimento.
 Reconhecer quem é o Scrum Master, profissional responsável por ensinar os valores, os artefatos e os processos do Scrum para todos os envolvidos no projeto, assim como compreender qual é o seu papel principal, que envolve coordenar a aplicação do framework, auxiliando o time a se desenvolver e autogerenciar.
 Identificar a responsabilidade de um Development Team, ou time de desenvolvimento, que envolve a criação da solução de ponta a ponta, sempre se baseando no product backlog criado pelo Product Owner.
+
+#30/03/2026
+
+@04-Elementos centrais do Scrum
+
+@@01
+Product Backlog
+
+Anteriormente, você conheceu os papéis existentes no Scrum. Agora, iremos nos aprofundar nos elementos centrais que essa ferramenta propõe: artefatos e eventos.
+O que é Product Backlog
+Começaremos a falar sobre o artefato chamado Product Backlog ou Backlog do Produto. Esse artefato Scrum é o pontapé inicial de todo o processo de trabalho do Scrum.
+
+Você sempre deve ter em mente que qualquer tipo de produto é um veículo de valor, ou seja, sempre resolve uma demanda ou problema que alguém tem. Para que isso aconteça, um produto precisa ter uma pessoa usuária ou clientela bem definida.
+
+Também é importante saber que um produto nem sempre é tangível.
+
+Produtos tangíveis são os que podemos tocar. Por exemplo, como objetos, peça de roupa ou alimentos.
+Produtos intangíveis são os que não podemos tocar. Por exemplo, como produtos digitais, serviços, experiências ou processos.
+Para concretizar esse conhecimento, imagine a seguinte situação: você resolve abrir o seu negócio. Sua proposição é um aplicativo para ajudar pessoas idosas a não esquecerem de tomar as suas medicações.
+
+Nesse caso específico, você já tem uma pessoa usuária bem definida e já sabe como gerar valor para essa pessoa, isto é, resolvendo um problema dela.
+
+Porém, ao começar a desenvolver essa solução junto com sua equipe, você percebe que não basta saber apenas o que entregar. Também é preciso entender quais são os detalhes que essa entrega deve ter. Ou seja, como você vai construir essa solução para que realmente seja efetiva e atenda toda e qualquer necessidade que essa pessoa usuária vai ter.
+
+Entender bem sobre esses detalhes é fundamental para que você e sua equipe consigam desenvolver esse aplicativo da melhor forma possível. Além disso, vai fazer diferença no produto final.
+
+No caso do seu aplicativo, poderíamos pensar que esses detalhes envolvem: saber quais são as principais funcionalidades que o app precisa para resolver o problema.
+
+Também saber como é o contexto das pessoas idosas. Elas têm alguma dificuldade para acessar esse aplicativo? Dependem de outra pessoa para fazê-lo?
+
+Esses são apenas dois exemplos de aspectos que você poderia saber antes de começar a desenvolver de fato a sua solução, ou seja, o seu aplicativo.
+
+Antes de qualquer projeto começar, é imprescindível que a equipe de desenvolvimento de produto saiba pelo menos o mínimo para poder iniciar o seu trabalho.
+
+É nesse momento do processo que uma lista de ser criada, contendo todas as funcionalidades, necessidades, desafios e qualquer informação que seja fundamental para o trabalho ser iniciado. No Scrum, essa lista é chamada de Product Backlog (Backlog de Produto).
+Conteúdo do Product Backlog
+O conteúdo desse artefato vai depender do tipo de projeto e contexto que a solução se encaixa.
+
+Ao longo das últimas décadas, o Scrum saiu do escopo da área da tecnologia e atualmente é utilizado em diferentes contextos e empresas que desenvolvem diferentes tipos de produtos. Portanto, não existe uma única regra de que tipo de item deve conter um Product Backlog.
+
+Embora não exista essa regra, podemos dizer que o conteúdo de um Product Backlog deve conter de forma geral:
+
+Necessidades/Desejos das pessoas usuárias da solução desenvolvida;
+Objetivos do negócio e das principais partes interessadas (stakeholders) do projeto;
+Limitações do projeto;
+Recursos e funcionalidades;
+Melhorias e/ou correções;
+Detalhes do tipo de produto/solução.
+As limitações do projeto costumam ser esquecidas nesse tipo de artefato, mas são muito importantes.
+
+Por exemplo, desenvolver produtos físicos ou digitais vai ocasionar um custo. Porém, não adianta desenvolver um produto que vai custar muito mais do que vale. Consequentemente, um dos itens do Product Backlog desse produto deve ser o teto de gastos. Ou seja, quanto o produto tem que custar para a empresa o desenvolver e qual seu valor máximo no ponto de venda.
+
+Outros aspectos que o Product Backlog pode conter são os recursos e funcionalidades. Principalmente, quando falamos de produtos digitais como aplicativos ou sistemas na nuvem.
+
+Dependo do contexto, podem aparecer melhorias ou correções. Por exemplo, quando uma empresa não desenvolve um produto do zero. Na verdade, está reformulando um produto que já existe em seu portfólio. Nesse caso, o Product Backlog desse novo projeto, pode conter as melhorias que esse novo produto deve ter em relação ao antigo.
+
+Ainda que criemos um produto do zero, podemos ter melhorias e correções em relação ao produto da concorrência.
+
+Por fim, o Product Backlog pode conter qualquer tipo de informação essencial para o projeto acontecer de acordo com seu contexto.
+
+De qualquer forma, o Product Backlog é sempre mantido e priorizado pelo papel de Product Owner (PO), a pessoa que representa a pessoa usuária ou clientela junto ao time e a empresa.
+Meta do produto
+Qualquer tipo de solução é iniciada para resolver um problema ou para atender alguma demanda do mercado como um todo. Esse objetivo específico a ser atendido é o que chamamos no Scrum de meta do produto.
+
+Em resumo, a meta do produto é uma descrição clara do objetivo geral que aquele produto deve cumprir.
+Por isso, deve estar nítido para todo o time, já que a meta do produto vai guiar todo o trabalhado das pessoas que desenvolvem essa solução.
+
+A meta do produto vem sempre do Product Owner que a define a partir de suas pesquisas de mercado, conversas com stakeholders e pessoas de negócio, além de conversas com as pessoas usuárias e a clientela do projeto.
+
+A partir disso, essa meta é comunicada para o time Scrum, que começa a trabalhar ao longo das Sprints para poder atingir o objetivo geral do produto.
+
+Como criar um Product Backlog eficiente?
+Talvez você se pergunte: mas, como criar um Product Backlog eficiente? Para que isso aconteça você deve seguir algumas etapas-chave.
+
+1. Focar na pessoa usuária/cliente
+A primeira etapa é focar na pessoa usuária ou cliente. O que isso quer dizer? Significa que devemos priorizar e entender o que essa pessoa demanda.
+
+No caso de aplicativos, quais são as funcionalidades? Quais detalhes importantes que essa pessoa quer no aplicativo? O que faria diferença para ela comprar o produto se tivesse naquele aplicativo?
+
+Ter esse foco inicial na pessoa usuária vai fazer com que consigamos colocar no Product Backlog itens que realmente vão fazer com que aquele produto realmente atenda as expectativas e desejos da pessoa interessada no final.
+
+2. Priorizar itens do backlog
+Quando já temos as informações do que é importante para a pessoa usuária, precisamos priorizar esses itens no backlog de produtos. Ou seja, temos que selecionar em uma escala de valor o que é mais importante para a clientela em relação àquela solução.
+
+Por exemplo, tudo que for mais importante deve estar no topo da lista. Consequentemente, deve ser desenvolvido primeiro ao longo do projeto. Enquanto o que for menos importante, vai ficar na parte de baixo da lista.
+
+Isso também vale para alguns itens que são urgentes de serem feitos no início do projeto. Às vezes não vai ser algo tão importante para a clientela, porém, faz mais sentido desenvolver aquele item no início para realizar testes e afins. Isso fica a critério da equipe.
+
+3. Atualizar o backlog
+Depois, é bem importante que o PO sempre atualize o backlog de produto.
+
+No Scrum, nada é estático. Logo, as mudanças podem e são esperadas que aconteçam durante o processo.
+Por exemplo, lembrar de alguma demanda da clientela que não foi identificada no início. Ou alguém da equipe comentar um detalhe que poderia ser adicionado ao projeto.
+
+Essa revisão é essencial para sempre saber o que faz ou não sentido e o que pode ser alterado.
+
+4. Ter clareza e objetividade
+Como falamos anteriormente, é fundamental que o Product Backlog tenha clareza e objetividade. Por isso, ao escrever essa lista, os aspectos que os produtos precisam ser possíveis de serem executados.
+
+Em outras palavras, cada integrante da equipe precisa conferir a lista e entender de fato o que precisa ser feito.
+
+Outro aspecto importante em relação à clareza é manter o Product Backlog sempre visível e acessível para todas as pessoas do time. Ou seja, todas precisam ter acesso à lista para estar alinhadas com seu trabalho e entender o que precisa ser entregue naquela Sprint ou no projeto como um todo.
+
+Atualmente, a tecnologia nos ajuda bastante a ter um Product Backlog sempre acessível e visível. Alguns aplicativos como Miro, Notion ou Trello são ferramentas que possuem versões gratuitas e que você pode utilizar no seu processo de projeto.
+
+5. Incluir o time de desenvolvimento
+Além disso, é fundamental incluir o time de desenvolvimento na hora de montar o Product Backlog. Algo que nem sempre acontece na prática. Principalmente, quando trabalhamos em uma solução extremamente específica, nichada ou que envolve pessoas técnicas para construí-la.
+
+Por vezes, a clientela não vai saber te dizer exatamente o que precisa ter naquela solução ou caso isso também não seja apontado nas suas pesquisas de mercado.
+
+Nada melhor do que ter especialistas e pessoas que realmente saibam desenvolver para poder opinar sobre a lista.
+
+Dica: se possível sempre inclua integrantes do time de desenvolvimento ao elaborar o seu Product Backlog. Com isso, sugestões e limitações de projetos podem ser discutidas nesse momento e fazer com que o Product Backlog seja eficiente.
+6. Revisar o backlog
+Por fim, sempre revise o Product Backlog de forma regular durante o processo de projeto. Isso vai fazer com que você consiga identificar se o time realmente prioriza o necessário, se está alinhado e conseguindo cumprir com a meta do produto.
+
+Ao seguir todos esses passos, você vai conseguir desenvolver um Product Backlog realmente eficiente e que ajude a equipe Scrum a trabalhar de forma mais focada.
+
+O que aprendemos?
+O Product Backlog é um elemento fundamental dentro do Scrum. Afinal, esse artefato faz com que todas as pessoas envolvidas no projeto trabalhem de forma alinhada e comprometida a atingir um objetivo em comum.
+
+Esse objetivo em comum faz com que cada integrante da equipe foque em dar o seu melhor. Com esse alinhamento, a equipe Scrum trabalha com maior eficácia e alinhada a resolver o problema que precisa ser resolvido com aquele projeto em questão.
+
+Agora, avance no curso para entender em detalhes o evento chamado Sprint Planning.
+
+@@02
+Para saber mais: artigo “5 técnicas de priorização: organize seu backlog
+
+Saber montar um Product Backlog é fundamental para o sucesso de um projeto de desenvolvimento de software. O Product Backlog é a lista de itens que representam as necessidades, as funcionalidades e as melhorias planejadas para um produto. Construí-lo corretamente permite priorizar adequadamente às demandas das pessoas usuárias e do mercado, planejar o trabalho da equipe de desenvolvimento e garantir a entrega de um produto de alta qualidade.
+Ah! Além disso, saiba que o Product Backlog é uma ferramenta valiosa para a comunicação e a colaboração entre as equipes de negócios, usuários e time de desenvolvimento, permitindo um alinhamento eficaz de expectativas e objetivos.
+
+Para complementar os seus estudos, indicamos a leitura do artigo 5 técnicas de priorização: organize seu backlog. Nesse artigo, você vai entender como organizar, de forma eficiente, um product backlog por meio da apresentação de um caso real e da indicação de algumas técnicas que podem ser aplicadas também em outros contextos.
+
+Boa leitura!
+
+https://medium.com/empiricustech/5-técnicas-de-priorização-organize-seu-backlog-e636d97222e4
+
+@@03
+Mão na massa: criando um product backlog
+
+Agora que você já entendeu o que é um product backlog e a sua importância dentro do framework Scrum, que tal colocar esse conhecimento em prática nesta atividade?
+Considere o seguinte case fictício:
+
+Nome do projeto: Plataforma de Aprendizado Online
+
+Visão Geral: A empresa EduTech é uma startup que deseja criar uma plataforma de aprendizado on-line para oferecer cursos e treinamentos para profissionais de tecnologia da informação. A plataforma será uma solução inovadora para aqueles que desejam aprimorar suas habilidades em programação, segurança cibernética, gerenciamento de projetos e outras áreas relacionadas à TI.
+
+Objetivos de Negócio:
+
+Tornar-se líder de mercado no segmento de aprendizado on-line para profissionais de TI;
+Oferecer uma ampla variedade de cursos e treinamentos, com alta qualidade de conteúdo e experiência do usuário;
+Atrair um grande número de usuários registrados e aumentar a base de clientes pagantes;
+Fornecer uma plataforma intuitiva, interativa e fácil de usar, que possibilite o aprendizado flexível e acessível a qualquer momento e em qualquer lugar;
+Proporcionar um ambiente de aprendizado colaborativo, com recursos de comunicação entre as pessoas estudantes e instrutoras dos cursos.
+Descrição do Produto: a plataforma de aprendizado on-line será desenvolvida como uma aplicação web responsiva e também terá aplicativos móveis para dispositivos iOS e Android. Ela oferecerá uma ampla variedade de cursos e treinamentos, com diferentes níveis de dificuldade e formatos, como aulas em vídeo, tutoriais, exercícios práticos e questionários de avaliação.
+
+Agora é com você!
+
+A partir dessa descrição de projeto de um produto, crie um product backlog apontando quais itens são essenciais para o desenvolvimento dessa plataforma educacional.
+
+No case fictício apresentado, o product backlog da plataforma de aprendizado on-line poderia incluir os seguintes itens:
+Criação de conta e perfil do usuário: os usuários poderão criar uma conta, preencher seu perfil com informações pessoais, interesses e preferências de aprendizado, além de ter acesso ao painel de controle do aluno.
+
+Catálogo de cursos: as pessoas estudantes poderão navegar pelo catálogo de cursos, visualizar detalhes sobre os cursos, como descrição, instrutor, duração, pré-requisitos, avaliações e preço.
+
+Compra de cursos: as pessoas estudantes poderão comprar cursos individuais ou se inscrever em planos de assinatura para acesso a múltiplos cursos. Será necessário integrar a plataforma com um sistema de pagamento seguro e confiável.
+
+Acesso aos cursos: as pessoas estudantes terão acesso aos cursos adquiridos ou aos quais estão inscritas em seu painel de controle. Elas poderão assistir às aulas em vídeo, ler materiais de apoio, realizar exercícios e questionários e acompanhar seu progresso de aprendizado.
+
+Recursos de aprendizado colaborativo: as pessoas estudantes poderão se comunicar com as pessoas instrutoras e outras estudantes por meio de fóruns de discussão, salas de chat ou outras ferramentas de comunicação integradas à plataforma.
+
+Sistema de avaliação de cursos: as pessoas estudantes poderão avaliar os cursos que concluírem, fornecendo feedback sobre a qualidade do conteúdo, do instrutor e da experiência do usuário. Essas avaliações ajudarão outros usuários a tomar decisões informadas sobre quais cursos escolher.
+
+Recursos de suporte a clientes: as pessoas estudantes podem acessar o suporte ao enfrentar qualquer dificuldade ou erro dentro da plataforma.
+
+Isso não significa que outros ítens não possam ser adicionados neste caso, detalhando ainda mais o product backlog. Porém, os ítens citados acima seriam os mais importantes em um produto como uma plataforma de aprendizagem online. A ordem desses ítens também poderia ser alterada.
+
+Agora, se a sua resposta não foi exatamente como essa, não tem problema! O importante é você saber identificar que um product backlog eficiente deve ser detalhado, listando toda e qualquer funcionalidade e aspecto que um produto ou solução deva ter para funcionar bem e gerar valor para o seu usuário.
+
+@@04
+Sprint Planning
+
+Seguindo adiante no fluxo do trabalho do Scrum é hora de falar da Sprint Planning.
+O que é Sprint Planning
+Imagine que você tem o objetivo de fazer uma viagem nas suas próximas férias. Antes que isso aconteça, provavelmente você não vai sair para viajar sem tratar de alguns detalhes.
+
+Por exemplo, quando começa a chegar perto da data da viagem, você sabe que precisa arrumar sua mala, calibrar ou abastecer o carro, separar uma quantia de dinheiro para levar ou até salvar no celular o endereço dos locais que deseja visitar ou se hospedar.
+
+Tudo isso são atividades que precisam estar dentro do seu planejamento antes de sair de casa. Esse planejamento é o que vai te trazer tranquilidade para atingir o objetivo de curtir suas férias.
+
+Quando falamos de um processo de projeto que utiliza Scrum, essa lógica é a mesma. Nunca um time de desenvolvimento vai começara construir algo sem ter um planejamento prévio.
+
+Esse planejamento acontece no evento chamado Sprint Planning que é o primeiro evento no fluxo de trabalho do Scrum.
+
+Nesse momento, o time de reúne para conversar e definir qual trabalho vai ser feito na Sprint que vai ser iniciada.
+
+O propósito desse evento é definir:
+
+O que será entregue: o objetivo da Sprint;
+Como será entregue: plano de trabalho para atingir o objetivo.
+Tudo isso é definido pelo Product Owner em conjunto com o restante da equipe Scrum.
+
+Basicamente, uma Sprint Planning é divida em dois momentos diferentes. O primeiro momento serve para a equipe discutir e definir qual vai ser o objetivo da Sprint que vai ser iniciada. Ou seja, o que deve ser entregue e quais são as principais atividades que devem acontecer para que a entrega seja possível.
+
+O segundo momento do evento, o time Scrum e o PO analisam o objetivo definido do passo anterior e constroem um plano para detalhar tudo que deve ser feito para atingir o objetivo.
+
+Em outras palavras, é necessário desdobrar as atividades em pequenas tarefas e indicar quem são as pessoas responsáveis por cumpriá-las, além de estabelecer um prazo para seu cumprimento. Esse é o plano de ação da Sprint Planning.
+
+Como realizar uma Sprint Planning?
+Mas, você ainda deve estar com dúvidas sobre como realizar esse evento. Para isso, você precisa realizar algumas etapas.
+
+Time box
+O primeiro que você deve fazer para começar uma Sprint Planning é definir o time box, isto é, a janela de tempo que esse evento Scrum vai ter de duração.
+
+O Scrum Guide nos orienta que quando uma Sprint tem uma duração de um mês, o evento deve ter até oito horas de duração.
+Mas, se uma Sprint vai ter uma ou duas semanas, a reunião tem que durar menos tempo. Não existe uma regra, vai depender do tipo e contexto do projeto.
+
+Preparação
+A segunda etapa é ter um momento de preparação. Ou seja, o Product Owner em específico deve se preparar para começar a reunião com o Product Backlog em mãos.
+
+Com isso, pode discutir essa lista com a equipe para entender quais são as principais prioridades e, por sua vez, pode gerar o objetivo da Sprint.
+
+Objetivo
+O objetivo é uma declaração do que deve ser entregue na Sprint em questão.
+
+É nesse momento que o Product Owner deve apresentar o objetivo na equipe e discutir o porquê da importância de atingir o objetivo - não só para a pessoa usuária final da solução, mas também para o próprio negócio. Afinal, essa pessoa é quem faz a conexão entre cliente, time e stakeholders do negócio.
+
+A partir dessa conversa, o time Scrum deve aproveitar o momento para tirar dúvidas sobre o objetivo e dar sugestões. Por exemplo, viabilidade e adição de detalhes.
+
+Sprint Backlog
+Após a definição do objetivo da Sprint, a equipe vai pegar a lista do Product Backlog e analisar quais daqueles itens devem ser colocados em prática durante a Sprint em questão.
+
+A escolha desses itens está extremamente relacionada ao objeto da Sprint, ou seja, vamos analisar o objeto definido e conferir a lista de requisitos, funcionalidades e demandas para determinar quais auxiliam o atingimento do objetivo atual da Sprint.
+
+Todas essas definições resultam no que chamamos de Sprint Backlog que é um material bem detalhado e que serve de orientação para a equipe de desenvolvimento conseguir inspecionar o trabalho do time a cada Daily Scrum. Desse modo, conseguimos saber o que está ou não sendo feito, onde existe alguma dificuldade durante os eventos diários.
+
+Meta da Sprint
+A partir disso, o time vai elaborar o que chamamos de meta da Sprint, uma declaração objetiva e concisa do que deve ser atingido nessa Sprint em questão.
+
+Diferentemente do Sprint Backlog que é algo bem detalhado e voltado para tarefas e responsabilidades, a meta de Sprint vai unir o time para saber o que precisa ser atingido ao final da Sprint. Consequentemente, vai conseguir trabalhar mais alinhado para atingir esse meta.
+
+Ter um espírito de time e coletivo é bastante importante no Scrum.
+Afinal, quando temos uma meta para cumprir, procuramos dar nosso melhor para atingi-la. Quando trabalhamos nessa meta com outras pessoas, o nosso trabalho, consequentemente, passa a ser mais colaborativo e eficiente, porque todos têm um interesse em comum.
+
+Plano de ação
+Por fim, uma Sprint Planning é finalizada com o documento chamado plano de ação. Esse plano precisa pegar tudo o que foi definido até então e detalhar tarefas, responsabilidades e prazos de entrega.
+
+Por exemplo, "a tarefa 1 deve ser desenvolvido por integrante X. Essa pessoa tem prazo X para fazer essa entrega. Nessa entrega, a pessoa deve considerar A, B e C".
+
+O nível de detalhamento do plano serve para orientar o trabalho do time de desenvolvimento de uma maneira bem técnica. Além de fazer com que todos entendam os objetivos que precisam ser atingidos a partir desse plano.
+
+O que aprendemos?
+Ao final da Sprint Planning, todo o time de Scrum deve estar comprometido com o objetivo da Sprint e também com o plano de ação. O comprometimento é um dos valores do Scrum.
+
+Além disso, ao final da reunião, cada integrante do time deve estar ciente do que é esperado dele, ou seja, qual trabalho que deve executar e a forma de fazê-lo.
+
+Tudo isso, facilita o processo de desenvolvimento de uma solução. Afinal, quando sabemos exatamente o que é esperado e quais são as tarefas que precisam ser feitas para atingir o objetivo, fica mais fácil direcionar o foco para aquela atividade. Além de agilidade, isso também traz eficiência durante o processo de projeto.
+
+Agora que você já entendeu como é o evento Sprint Planning, que tal avançar entender de forma detalhada como funciona uma Sprint no Scrum?
+
+@@05
+Planejamento de Sprint
+
+Durante a realização de uma Sprint Planning, a equipe de desenvolvimento de um projeto Scrum está revisando o product backlog e se preparando para definir os itens a serem incluídos na sprint que terá início. No entanto, um membro da equipe informa que identificou um novo requisito que é considerado de alta prioridade para o produto.
+Nessa situação, o que a equipe deve fazer?
+
+Adicionar o novo requisito diretamente à sprint, independentemente do impacto na capacidade de entrega da equipe.
+ 
+Alternativa incorreta
+Realizar uma votação entre os membros da equipe de desenvolvimento para decidir se o novo requisito será incluído na sprint atual.
+ 
+Alternativa incorreta
+Adicionar imediatamente o novo requisito à sprint, sem discutir com o Product Owner ou o Scrum Master, pois é uma alta prioridade.
+ 
+Alternativa incorreta
+Discutir com o Product Owner e o Scrum Master para avaliar a prioridade do novo requisito e, se necessário, replanejar a sprint.
+ 
+De acordo com o Scrum Guide, o product backlog não deve ser alterado durante uma sprint. Porém, em situações onde um novo requisito de alta prioridade é identificado durante a sprint planning, a equipe de desenvolvimento deve discutir com as pessoas Product Owner e Scrum Master para avaliar a prioridade do novo requisito e determinar se ele deve ser incluído na sprint atual ou se será adicionado em uma próxima sprint.
+
+@@06
+Sprints
+
+Como você já sabe, o processo de trabalho do Scrum acontece em uma sucessão de pequenos ciclos que entregam pequenas partes da solução desenvolvida. Assim, conseguimos testar, avaliar e melhorar essas partes ao longo de todo o processo de projeto.
+Esses pequenos ciclos são conhecidos no Scrum de Sprints, o tema desse vídeo.
+
+O que é Sprint?
+Imagine a seguinte situação: você deseja elaborar um determinado prato. Mas, para isso, o primeiro que você deve fazer é ler a receita para entender quais são as principais tarefas a serem executadas, qual a ordem da tarefa e quais são os principais ingredientes e suas respectivas quantidades.
+
+Só depois de entender todo o passo a passo, você vai ser capaz de colocar a mão na massa e elaborar o prato. Ao parar e ler a receita para adquirir esse conhecimento, você vai diminuir consideravelmente as chances de errar o prato. Desse modo, vai conseguir atingir seu objetivo inicial de elaborar a receita.
+
+Em projetos que utilizam o Scrum, a lógica é a mesma. Ou seja, o time de desenvolvimento durante as Sprints sempre deve se atentar ao Sprint Backlog, assim como ao plano de ação meticulosamente detalhado para auxiliar no desenvolvimento do produto.
+
+Caso o time não faça isso, a chance de não atingir a meta da Sprint é grande. Logo, é importante entender o conceito de Sprint e saber vivenciar esse evento se você deseja aplicar o framework Scrum em seus projetos.
+
+Uma Sprint é um evento com uma duração fixa. O Scrum Guide nos orienta que as Sprints devem durar entre 2 e 4 semanas.
+Mas, não existe uma regra já que depende novamente do tipo e contexto do projeto. O ideal é que as Sprints tenham um tempo curto, porque ajuda o time a trabalhar de forma mais organizada, focada e eficiente.
+
+Além disso, quanto mais Sprints temos ao longo do processo Scrum, mais momentos de aprendizado vamos ter.
+
+Incremento do produto
+As Sprints permitem que o time de desenvolvimento entreguem um trabalho de alta qualidade de forma iterativa e incremental.
+O objetivo da Sprint é que o time entregue uma parte do produto potencialmente utilizável e que possa ser plenamente avaliada pelo Product Owner e demais partes interessadas.
+
+Por exemplo, se o objetivo do projeto é desenvolver um aplicativo de delivery de comida, essa entregue geral poderia ser divida em diferentes Sprints.
+
+Em cada Sprint, vai ser entregue uma determinada funcionalidade do app. O importante é que a funcionada de cada entrega funcione, assim quem vai avaliar vai conseguir dar um feedback realmente construtivo para o time.
+
+A cada final de Sprint, tanto o Product Owner quanto a clientela, vão poder dar um feedback que vai fazer com que a equipe de desenvolvimento melhore o produto. Isso permite que esse produto seja desenvolvido com uma participação ativa da pessoa usuária.
+
+Desse modo, quando o produto for entregue no final do projeto, ele pode ter mais aceitação no mercado e gerar mais valor a pessoa usuária uma vez que for avaliado e aprimorado ao longo do processo do Scrum. Diferentemente de algumas empresas que desenvolvem o produto, colocam no mercado e só depois analisam a geração de valor e sua aceitação.
+
+Essas empresas correm um alto risco, enquanto as empresas que utilizam Scrum vão desenvolver uma solução de forma incremental e interativa e, com isso, de menor risco ao ser lançada.
+
+Essa participação ativa da pessoa usuária é muito importante, principalmente em empresas que colocam a clientela como foco e no centro do modelo de negócio. A opinião de quem vai usar o produto é valiosa, pois vamos conseguir entregar um produto que atende suas expectativas.
+
+Essas pequenas partes que vão ser entregues a cada Sprint são consideradas um artefato Scrum chamado incremento do produto.
+Uma dúvida bastante comum é se durante a Sprint, é obrigatório entregar apenas o incremento. Não, você pode reunir diferentes tipos de incremento para entregar ao final da Sprint. Nesses casos, o importante é sua equipe garantir que os incrementos estejam conectados e funcionais.
+
+No exemplo do app de delivery de comida, a equipe poderia entregar em uma determinada Sprint uma interface detalhada, uma funcionalidade de pagamento do pedido e outra funcionalidade do menu de restaurante por tipo de comida. Durante essa entrega, tivemos três tipos de incrementos que fazem parte do produto final.
+
+Mas, não adianta esses elementos não se conectarem. Afinal, essas entregas vão ser avaliadas pelo Product Owner e, muitas vezes, pela pessoa usuária ou alguém do negócio.
+
+Definição de pronto
+Todavia, como sabemos como o incremento está pronto para ser entregue ao final de uma Sprint? Cumprindo com o compromisso que cada incremento deve atender para ser considerado pronto.
+
+O Scrum Guide chama de definição de pronto o critério que o time vai utilizar como base para poder classificar se um incremento está pronto ou não para ser apresentado no final de uma determinada Sprint.
+Esses critérios vão definir quando algum item do Sprint Backlog está apto para ser apresentado para as pessoas que vão avaliá-lo.
+
+Mais uma vez, a definição de pronto é customizada para cada projeto. Ou seja, cada equipe de desenvolvimento vai ter autonomia para definir seus próprios critérios que vão fazer com que entendam quando o incremento está pronto e apto para ser testado e avaliado ao final de cada Sprint.
+
+Esses critérios devem ser claros e objetivos, além de estarem sempre acessíveis para cada integrante da equipe de desenvolvimento. Alguns exemplos de critério para a definição de pronto são:
+
+As funcionalidades do item foram implementadas e testadas;
+A usabilidade do item foi validada;
+O item foi aprovado pelo Product Owner.
+Cada tipo de solução vai ter uma determinada particularidade que, por sua vez, vai exigir determinados critérios mais técnicos para demonstrar quando um incremento está pronto para ser apresentado.
+
+Note que esses critérios podem ser técnicos e específicos, bem como algo relacionado a própria qualidade do que vai ser entregue.
+
+Por fim, a definição de pronto ajuda a garantir a qualidade do produto e daquilo que vai ser entregue ainda que em pequenas partes.
+
+Se um determinado item da Sprint não for definido como pronto, ele não vai poder ser apresentado em uma Sprint Review ou para o Product Owner.
+
+Daily Scrum
+Ao longo do processo de projeto, o time Scrum se reúne diariamente no evento de Daily Scrum.
+
+A Daily Scrum sempre ocorre durante as Sprints e tem uma duração de 15 minutos, onde a equipe se reúne para falar das tarefas que estão colocando em prática durante o seu trabalho.
+É um bom momento para o time trocar experiências e entender como podem melhorar o seu processo de trabalho, remover barreiras ou impedimentos que acontecem naquele momento, além de fortalecer o espírito de equipe onde todos podem ajudar o próximo a melhor o seu trabalho.
+
+A Daily Scrum também é importante já que se houver algo travando o desenvolvimento do incremento, os encontros diários ajudam o time a identificar esse travamento a tempo e fazer as mudanças necessárias. Com isso, evitam-se atrasos na Sprint.
+
+Para diminuir a complexidade, a Daily Scrum é normalmente realizada no mesmo local e horário todo dia. Assim, as pessoas conseguem se programar e saber que aquele momento é reservado para a conversa com o time.
+
+Esse tipo de momento evita que se tenha várias reuniões durante a Sprint para tratar de pontos específicos do projeto. Se todo dia o time se reúne para falar de forma geral sobre o que está acontecendo, aquele momento vai ser usado e evita a criação de vários compromissos que tiram o foco do trabalho de cada integrante do time.
+
+Por fim, o objetivo da Daily Scrum é inspecionar o trabalho do time em direção à meta da Sprint, verificando se todos estão conseguindo trabalhar para atingir essa meta. A partir dessa inspeção o time pode até adaptar o Sprint Backlog conforme a necessidade.
+
+Esse evento ajuda a comunicação e entrosamento do time, o que favorece também uma tomada de decisão mais rápida e maior proatividade de cada integrante.
+
+Próximos passos
+Finalmente, uma nova Sprint sempre será iniciada após a conclusão da Sprint atual. Isso vai acontecer em diferentes ciclos até a solução estar totalmente pronta na sua versão final.
+
+Porém, sempre ocorrem dois eventos quando que se termina uma Sprint: a Sprint Review e a Sprint Retrospective. Esses são os temas que abordaremos a seguir.
+
+@@07
+Sprint
+
+Sprint é um conceito-chave quando nos referimos ao framework Scrum. Ter uma compreensão clara da sprint é fundamental, pois permite que a equipe gerencie seu trabalho de forma eficiente.
+A seguir, marque a alternativa que traz a informação correta sobre a sprint no Scrum.
+
+A sprint é uma lista que contém todos os requisitos necessários que o produto/solução que será desenvolvido no projeto deve compreender.
+ 
+Alternativa incorreta
+A sprint é um conjunto de atividades realizadas para monitorar o progresso do projeto.
+ 
+Alternativa incorreta
+A sprint é um período de tempo fixo, geralmente de 1 a 4 semanas, durante o qual a equipe de projeto desenvolve o produto.
+ 
+No período, normalmente com duração de 1 a 4 semanas, a equipe de projeto se concentra em desenvolver um incremento de produto funcional. Durante a sprint, a equipe trabalha nas tarefas do backlog da sprint, que são as tarefas selecionadas pelo time para serem concluídas durante a sprint.
+Alternativa incorreta
+A sprint é uma revisão formal realizada ao fim de cada iteração do projeto.
+
+@@08
+Sprint: Review e Retrospective
+
+Na aula anterior, aprendemos como funcionam as sprints no scrum. Porém, uma sprint realmente só termina quando dois eventos acontecem: a sprint review e a sprint retrospective.
+Estes dois eventos têm grande importância ao longo do fluxo de trabalho do Scrum. O motivo é que eles nos ajudam a alcançar a melhoria contínua do produto, fundamental em projetos que utilizam o framework.
+
+Na prática, algumas empresas que utilizam o Scrum confundem a sprint review e a sprint retrospective, por serem muito semelhantes. Porém, apesar da semelhança, são dois eventos distintos com objetivos diferentes ao longo do processo de trabalho do Scrum.
+
+Sprint review
+O primeiro evento que acontece após o final da sprint é a sprint review ou reunião de revisão da sprint. Seu principal objetivo é apresentar o produto entregue na sprint em questão, o "incremento".
+
+A reunião costuma durar em torno de 4 horas, se consideramos uma sprint de um mês. No caso de sprints menores, talvez a duração também seja menor. Depende muito do contexto e tipo de projeto.
+
+Na reunião de revisão da sprint, esperamos que o time Scrum apresente para os stakeholders (clientes, usuários, acionistas ou mesmo alguém do negócio) o incremento que é resultado da sprint em questão. Assim, os stakeholders poderão passar um feedback sobre o que foi entregue.
+
+Na apresentação, podem ser demonstradas as funcionalidades de um produto, por exemplo, um produto digital, ou demais elementos, a depender do tipo de solução que está sendo desenvolvida.
+
+Além do incremento, o time deve apresentar os objetivos estabelecidos para a sprint em questão e quais deles foram atendidos ou não. A partir disso, a audiência conseguirá passar um feedback sobre o incremento de produto, dar sugestões e alinhar as expectativas em relação aos próximos ciclos de trabalho, ou seja, as próximas sprints.
+
+Algo bastante importante que deve acontecer ao final da reunião é que o product backlog precisa ser atualizado. A partir dos feedbacks, sugestões e alinhamentos de expectativas entre o time e os stakeholders, algumas tarefas listadas no product backlog podem não fazer mais sentido para as próximas sprints.
+
+Se você for a pessoa product owner, talvez seja sua responsabilidade atualizar o product backlog.
+
+Sprint Retrospective
+Após a sprint review, acontece outro evento chamado sprint retrospective. Se trata de uma reunião com o objetivo de avaliar, de forma geral, o processo de trabalho do time Scrum.
+
+Nesta reunião, o time discute o que foi feito na sprint e começa a tentar identificar melhorias para o que foi ruim. O Scrum guide orienta que, quando trabalhamos com uma sprint de um mês, a duração dessa reunião deve ser até 3 horas.
+
+Neste encontro, o time deve discutir e analisar o que foi feito na última sprint e entender como foi a dinâmica de trabalho: o que funcionou, o que não funcionou e o que pode ser melhorado.
+
+Além do processo de desenvolvimento do produto, analisa-se também as dinâmicas internas do time, por exemplo, a comunicação. Outro ponto importante discutido nesse tipo de evento é a identificação de obstáculos durante o processo de trabalho e exemplificação de como eles foram contornados.
+
+Então, a equipe analisará o que deu muito certo, quais foram os grandes acertos e o que os ocasionou. Tudo isso é muito importante para que todas as pessoas aprendam e consigam implementar o que deu certo e tentar evitar o que deu errado.
+
+Como resultado, a equipe produzirá uma lista com alguns itens que deverão, necessariamente, abordar nos próximos ciclos de trabalho para que o processo de trabalho melhore.
+
+O Scrum guide destaca que a sprint retrospective é um evento essencial para colocar dois pilares do Scrum em ação: a inspeção e a adaptação. O motivo é que, nesse momento, o time tem uma grande oportunidade de parar, analisar o que foi feito e reformular seus processos.
+
+Sprint Review vs Sprint Retrospective
+Para que fique mais fácil identificar as principais diferenças entre as sprint review e a sprint retrospective, vamos analisar por partes cada um desses eventos.
+
+Objetivos
+Em relação aos objetivos, na sprint review, busca-se fazer uma revisão do produto/incremento e ter um feedback do que foi entregue. Já na sprint retrospective, o objetivo é a avaliação do processo de trabalho.
+
+Isso não quer dizer que, por exemplo, em uma sprint retrospective, não surgirá algum assunto relacionado ao produto ou ao próprio processo de desenvolvimento do produto, mas, o objetivo final dessa reunião é avaliar o processo de trabalho e não o produto.
+
+Pessoas
+Sobre as pessoas que participam desses dois eventos, na sprint review, temos todo o time Scrum e Stakeholders, ou seja, todas as pessoas interessadas no projeto em questão. Já na sprint retrospective, somente o time Scrum participa.
+
+Resultado
+Quanto ao resultado esperado no final de cada um desses eventos, na sprint review, esperamos apenas um feedback sobre o produto. Já na sprint retrospective, a ideia é desenvolver um pano de ação, algo bem mais detalhado e direcionado, que fará com que o time consiga, de fato, melhorar suas práticas de trabalho.
+
+Momento
+Por fim, embora ambos aconteçam ao final da sprint, a sprint review vem primeiro, seguida da conclusão do trabalho do produto. Já a sprint retrospective, sempre vai acontecer após a review.
+
+Conclusão
+Em resumo, portanto, na review nos concentramos no feedback do produto. Já na retrospectiva, refletimos sobre os feedbacks do processo de trabalho. Os dois eventos são bastante importantes, pois permitem que a equipe Scrum consiga evoluir ao longo do projeto.
+
+Acessando o Para saber mais: como conduzir uma Sprint Review e Para saber mais: Alura + Dicas para restrospectiva, você conseguirá estudar dois temas diferentes: um guia explicando de forma detalhada como conduzir uma sprint review e outro sobre como conduzir uma sprint retrospective.
+
+Após a leitura desses materiais, com certeza, você conseguirá colocar a mão na massa e, junto ao seu time, implementar esses dois eventos do processo Scrum.
+
+Concluímos a aula e já compreendemos os elementos centrais do Scrum, seus artefatos e eventos. Somando o conhecimento desta aula aos das aulas anteriores, com certeza, ficará muito mais fácil implementar o Scrum nos projetos. O primeiro passo é montar um time Scrum, afinal, as pessoas certas auxiliam e muito no desenvolvimento do projeto.
+
+Agora, vamos para a última aula, onde entenderemos como montar e gerenciar um time Scrum.
+
+@@09
+Para saber mais: como conduzir uma Sprint Review
+
+A reunião de revisão da sprint, também conhecida como Sprint Review, é uma oportunidade para a equipe Scrum refletir sobre o trabalho realizado na sprint anterior, compartilhar os resultados e receber feedback. É uma etapa muito importante no processo Scrum para promover a transparência e a colaboração entre os membros da equipe.
+Confira, a seguir, um passo a passo descomplicado para conduzir esse evento Scrum.
+
+Passo 1: Prepare a reunião
+
+Antes de iniciar a reunião, é importante se preparar adequadamente. Certifique-se de que a equipe de desenvolvimento tenha concluído todas as tarefas planejadas para a sprint e esteja pronta para compartilhar os resultados com os demais membros do time Scrum. Além disso, no caso de um encontro presencial, verifique se a sala de reunião está reservada e os recursos técnicos, como projetor ou tela de apresentação, estão funcionando corretamente. No caso de um encontro on-line, verifique se as ferramentas de que irá precisar estão funcionando.
+
+Passo 2: Convite aos participantes
+
+Envie convites aos membros do time Scrum, que incluem o Scrum Master, o Product Owner e a equipe de desenvolvimento. Certifique-se de que todos estejam cientes da data, do horário e do local da reunião.
+
+Passo 3: Inicie a reunião
+
+Inicie a reunião de revisão da sprint no horário marcado. Comece com uma breve introdução, explicando o propósito da reunião e os objetivos a serem alcançados.
+
+Passo 4: Demonstre as funcionalidades concluídas
+
+A equipe de desenvolvimento deve mostrar as funcionalidades concluídas durante a sprint. Isso pode ser feito por meio de uma demonstração prática do software desenvolvido ou exibindo os resultados em uma apresentação de slides. Certifique-se de que todas as funcionalidades sejam apresentadas de forma clara e compreensível.
+
+Passo 5: Receba feedback
+
+Após a apresentação das funcionalidades concluídas, é hora de receber feedback dos participantes. O Product Owner e outros membros do time Scrum podem fazer perguntas, fornecer comentários e sugerir melhorias. É importante encorajar uma discussão construtiva e garantir que todas as preocupações sejam ouvidas.
+
+Passo 6: Atualize o Product Backlog
+
+Com base no feedback recebido, a pessoa Product Owner deve atualizar o Product Backlog, que é a lista de itens a serem desenvolvidos futuramente. Os itens que foram concluídos na sprint devem ser marcados como concluídos e removidos do Product Backlog, enquanto os novos itens identificados durante a revisão da sprint devem ser adicionados.
+
+Passo 7: Encerre a reunião
+
+Após a discussão e a atualização do Product Backlog, encerre a reunião de revisão da sprint. É importante garantir que todos os tópicos tenham sido abordados e que haja um entendimento claro das próximas etapas a serem tomadas.
+
+Passo 8: Busque a melhoria contínua
+
+Após a reunião, a equipe Scrum deve realizar uma retrospectiva da sprint para identificar oportunidades de melhoria e implementar ações corretivas na próxima sprint. Esse é um passo importante para garantir um aperfeiçoamento contínuo do processo Scrum.
+
+Pratique essas etapas e terá sucesso na condução do Scrum!
+
+@@10
+Para saber mais: Alura+ Dicas para Retrospectivas ágeis
+
+A Sprint Retrospective, ou Retrospectiva, é de extrema importância no Scrum, pois é um evento dedicado à reflexão e à melhoria contínua. Durante a retrospectiva da sprint, a equipe tem a oportunidade de avaliar o que funcionou bem, identificar desafios e definir ações de melhoria para a próxima sprint. Essa prática permite que a equipe aprenda com suas experiências anteriores, aprimore seu processo de trabalho e promova a evolução contínua do time, resultando em um aumento da eficiência e da qualidade das entregas.
+Conheça mais sobre esse assunto e se aprofunde nos seus estudos por meio do artigo Dicas para retrospectivas ágeis. Neste vídeo, a instrutora Marianne Henriques comenta sobre a importância da retrospectiva dentro de equipes ágeis e como ela pode ser aplicada em todos os momentos do time. Que tal dar o play?
+
+https://cursos.alura.com.br/extra/alura-mais/dicas-para-retrospectivas-ageis-c1935
+
+@@11
+O que aprendemos?
+
+Nesta aula, você pôde:
+Reconhecer detalhadamente os eventos (Sprint: Sprint Planning, Daily Scrum, Sprint Review e Sprint Retrospective) e os artefatos (Product backlog, Sprint backlog, Incremento) do Scrum Framework.
+Identificar como construir um product backlog efetivo, que envolve um documento detalhado, claro e objetivo que esteja de acordo com as necessidades de cliente/usuário e também sempre acessível a todo time.
+Entender como facilitar uma Sprint Planning (momento de planejar o que vai ser feito na sprint, gerando um sprint Backlog), Sprint Review (momento que o time usa para inspecionar o incremento entregue na sprint) e Sprint Retrospective (momento final da sprint, para revisar o trabalho que foi feito pela equipe e identificar gargalos e melhorias no processo de trabalho).
