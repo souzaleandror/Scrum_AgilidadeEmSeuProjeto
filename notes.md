@@ -582,3 +582,290 @@ Reconhecer os três pilares que norteiam a aplicação do framework Scrum, como 
 Enumerar os valores do Scrum definidos pelo Scrum Guide, que devem ser seguidos ao aplicar o framework: Compromisso, Foco, Abertura, Respeito e Coragem.
 Identificar os principais componentes do framework Scrum, tais como os papéis, os eventos e os artefatos.
 Identificar o fluxo de trabalho do Scrum, que envolve: a elaboração do Product Backlog, o Planejamento (sprint planning) e a Execução da Sprint, as reuniões diárias (daily meetings) durante a Sprint, a revisão da Sprint (Sprint Review) e a Retrospectiva da Sprint (Sprint retrospective).
+
+#30/03/2026
+
+@03-Papéis dentro do Scrum
+
+@@01
+Product Owner
+
+Nesta aula, iremos nos aprofundar nos principais papéis do Scrum.
+O correto desempenho de algumas funções é fundamental para o funcionamento do Scrum, conforme mencionado. Logo, somente ao conhecermos as principais características e responsabilidades de cada um desses papéis que conseguimos montar e gerenciar uma equipe Scrum de forma eficiente.
+
+Product Owner (PO)
+Iremos começar pelo papel de Product Owner (PO), conhecido como dono do produto.
+
+Você já passou pela situação em um restaurante em que, ao fazer o pedido, percebeu que seria necessário solicitar algumas modificações ou pedir algo especial à pessoa atendente? Por exemplo, pedir para retirar a cebola do hambúrguer ou indicar o ponto desejado da carne.
+
+Quando isso acontece, estamos customizando nosso pedido, ou seja, estamos informando à pessoa atendente o que gostaríamos de ter no prato. Afinal, como clientes, é importante que nossas necessidades e desejos sejam atendidos.
+
+Nessas situações, a pessoa atendente é responsável por anotar o pedido e transmiti-lo à pessoa responsável pela liderança, assim como à equipe da cozinha, para preparar o pedido. Ela também é responsável por verificar se as alterações do pedido foram realizadas quando o pedido estiver pronto.
+
+No contexto do projeto Scrum, o papel equivalente à pessoa atendente é o Product Owner. É responsabilidade do Product Owner compreender as necessidades de um cliente específico, bem como qualquer outra informação essencial para iniciar o projeto.
+
+É o profissional responsável por materializar os desejos e necessidades das pessoas clientes no projeto. Em outras palavras, essa pessoa será a porta-voz da pessoa cliente junto ao time de pessoas desenvolvedoras e às demais partes da empresa.
+
+A pessoa que desempenha a função de Product Owner deve sempre conciliar os interesses da empresa responsável pelo desenvolvimento da solução com os interesses das pessoas usuárias ou clientes dessa solução, independentemente do projeto.
+
+Mas o que isso significa?
+
+Voltando ao exemplo do restaurante, a pessoa atendente é responsável por conciliar os desejos e pedidos especiais dos clientes com a capacidade de produção do restaurante. Ou seja, ela precisa entender se o que o cliente está solicitando é algo que o restaurante é capaz de produzir.
+
+Quando se trata de um projeto Scrum em uma empresa, a mesma lógica é aplicada. O Product Owner deve avaliar a capacidade de desenvolvimento da equipe e da empresa, alinhando-as com as necessidades e expectativas das pessoas usuárias do produto ou serviço.
+
+Assim, o Product Owner desempenha um papel importante e estratégico dentro do Scrum. Essa pessoa possui um poder de decisão significativo dentro do projeto. A decisão final sobre requisitos, funcionalidades e necessidades de desenvolvimento da solução é sempre atribuída ao Product Owner.
+
+Por ter todas essas atribuições, o Product Owner também é responsável pelo gerenciamento eficaz do Product Backlog, que é um dos artefatos do Scrum mencionados anteriormente e que será abordado com mais detalhes na próxima aula.
+
+Stakeholders
+Ressaltando que o Product Owner (PO) é um indivíduo, não uma equipe. No entanto, essa pessoa pode representar as necessidades de diferentes stakeholders, ou seja, de diversas partes interessadas envolvidas no projeto.
+
+Stakeholders são as partes interessadas ou envolvidas em um projeto, como clientes, usuários, acionistas, equipe de desenvolvimento e outros. Eles têm interesse, influência ou impacto direto no projeto e suas necessidades devem ser consideradas para alcançar os objetivos. Gerenciar as expectativas e envolvimento dos stakeholders é essencial para o sucesso do projeto.
+Por isso, a pessoa profissional escolhida para desempenhar o papel de Product Owner (PO) deve ter um amplo conhecimento sobre negócios tanto da parte do cliente quanto da empresa e suas particularidades. Afinal, essa pessoa é a responsável por comunicar ao cliente o que a empresa pode ou não desenvolver durante o projeto.
+
+Assim como é a pessoa responsável por esclarecer quais são as necessidades e particularidades para o time de pessoas desenvolvedoras. No entanto, é importante destacar que algumas pessoas que exercem essa função cometem erros ao se colocarem como a única ligação entre o cliente, a empresa e a equipe de desenvolvimento.
+
+Essa abordagem resulta em uma falta de conhecimento por parte de muitos membros da equipe Scrum sobre a pessoa usuária ou cliente da solução que estão desenvolvendo. Da mesma forma, quando o time de desenvolvedores não participa de reuniões com a equipe de negócios, surgem problemas semelhantes.
+
+Consequentemente, durante o processo de desenvolvimento do projeto, são propostas soluções que não são coerentes com o que a empresa está disposta a desenvolver.
+
+Ao ocorrer alguma dessas situações, o time de pessoas desenvolvedoras acaba não tendo um vínculo com as pessoas usuárias ou clientes, assim como os demais stakeholders do projeto.
+
+É essencial que o Product Owner convide regularmente membros da equipe Scrum para participar de reuniões de negócios com o cliente. Esses encontros proporcionam momentos cruciais para a troca de ideias e o aprimoramento do conhecimento sobre a solução em desenvolvimento.
+
+Dessa forma, o time é capaz de criar uma solução mais precisa e alinhada com as necessidades do cliente final, assim como com os interesses dos demais stakeholders.
+
+Responsabilidades da pessoa Product Owner
+Ao nos referirmos a rotina de uma pessoa Product Owner, temos algumas responsabilidades principais:
+
+Definir requisitos do produto
+Alinhar as entregas do time
+Gerenciar e atualizar product backlog
+iniciar e/ou cancelar uma Sprint
+A função do Product Owner é definir todos os requisitos do produto ou solução em desenvolvimento. Além disso, ele deve alinhar as ideias da equipe Scrum, preferencialmente por meio de um cronograma que contenha as principais atividades e as pessoas responsáveis por elas.
+
+O Product Owner também é responsável por gerenciar e atualizar o product backlog, que deve ser acessível a todos os membros da equipe para garantir que todos saibam o que é esperado do projeto. Por fim, o Product Owner é responsável por iniciar e cancelar sprints, quando necessário. Essa tarefa é exclusiva do profissional que desempenha a função de Product Owner.
+
+Delegar a responsabilidade
+Não há hierarquia no Scrum
+A função da pessoa Product Owner envolve a responsabilidade de realizar todo esse trabalho, mas ela também pode delegar tarefas aos outros membros da equipe Scrum. No entanto, independentemente da abordagem adotada, o Product Owner é a pessoa responsável pelo trabalho.
+
+É importante ressaltar que no Scrum não há hierarquia superior entre os membros da equipe. O conceito de equipe no Scrum pressupõe que o valor está na colaboração de todo o time, e não apenas nos indivíduos que o compõem.
+
+Agora que entendemos a função do Product Owner, vamos explorar a função do Scrum Master.
+
+Até mais!
+
+@@02
+Perfil desejável de um(a) Product Owner
+
+Maria e Cláudio possuem uma startup que vende sistemas de gestão financeira na nuvem para outras empresas. Para auxiliar no desenvolvimento de software, resolveram aplicar Scrum. Para isso, estão buscando um de seus colaboradores para ser Product Owner.
+Neste contexto, qual das seguintes alternativas apresenta uma característica (ou perfil desejável) para uma pessoa que deseja se tornar um Product Owner?
+
+Habilidades de comunicação para treinar os membros do time em valores e práticas do Scrum.
+ 
+Embora uma pessoa Product Owner deva ter as habilidades de comunicação bem desenvolvidas, o papel de treinar os membros do time nos valores e nas práticas do Scrum é de uma pessoa Scrum Master.
+Alternativa incorreta
+Experiência técnica em desenvolvimento de software e habilidades de codificação.
+ 
+Embora seja desejável que uma pessoa Product Owner compreenda os aspectos técnicos do desenvolvimento de software, como a arquitetura e a tecnologia, a habilidade de codificação não é uma responsabilidade de Product Owner. Essa pessoa é responsável por definir as prioridades do backlog do produto com base nas necessidades de stakeholders e maximizar o valor do produto, enquanto trabalha em estreita colaboração com a equipe de Desenvolvimento, que é responsável pela implementação técnica do produto.
+Alternativa incorreta
+Compreensão do negócio e das necessidades dos clientes e usuários.
+ 
+Essa é uma característica fundamental para uma pessoa que deseja ser Product Owner, uma vez que precisa entender o contexto de negócio em que o produto será utilizado e também as necessidades de clientes e usuários. Esse conhecimento é básico para poder tomar decisões assertivas sobre o product backlog, garantindo que o produto atenda aos requisitos e aos objetivos de negócio.
+Alternativa incorreta
+Capacidade de gerenciar o desenvolvimento do produto/solução em um projeto.
+
+@@03
+Scrum Master
+
+Na aula anterior, usamos a analogia de um restaurante para exemplificar a rotina e as atribuições de um Product Owner. Nesta aula, vamos alterar o cenário e adentrar o mundo musical para compreender o papel do Scrum Master.
+A Importância da Colaboração: Analogia entre um Concerto de Música Clássica e o Papel do Scrum Master.
+Durante um concerto de música clássica, a harmonia é um princípio fundamental na música erudita. Em uma orquestra, cada indivíduo tem a responsabilidade de tocar um instrumento específico em uma escala musical determinada e durante um período de tempo estabelecido.
+
+Embora ocorram vários ensaios ao longo do processo, no dia da apresentação da orquestra, todos os membros devem executar seus respectivos instrumentos de maneira perfeita. Se algum membro não desempenhar bem o seu papel, todo o trabalho da equipe é prejudicado. Isso ocorre porque, em uma orquestra, cada instrumento possui um papel crucial para garantir a harmonia sonora necessária na música erudita.
+
+Com base nisso, podemos observar que um concerto é um trabalho extremamente colaborativo, assim como um projeto que utiliza o Scrum.
+
+Em ambos os cenários, é necessário ter pessoas que coordenem as diferentes partes envolvidas no projeto, fornecendo orientação e facilitando uma comunicação mais efetiva entre elas. Além disso, essa pessoa tem a responsabilidade de garantir que cada membro da equipe desempenhe seu trabalho da melhor forma possível.
+
+No caso de um concerto de música clássica, essa pessoa é o maestro, enquanto em projetos que utilizam o Scrum, essa pessoa é o Scrum Master. Assim como o maestro precisa ter conhecimento de música erudita, o Scrum Master precisa ter um conhecimento técnico sobre a ferramenta.
+
+Isso ocorre porque o Scrum Master é responsável por capacitar o restante da equipe em relação aos processos Scrum, garantindo que cada membro entregue o melhor trabalho possível, no menor período de tempo e com maior eficiência.
+
+Teoria e prática Scrum
+Segundo o Scrum Guide, a pessoa que assume o papel de Scrum Master é responsável por garantir que não apenas a equipe Scrum, mas também a organização ou empresa em que o projeto está sendo realizado, compreendam tanto a teoria quanto a prática do Scrum.
+
+Quando falamos da teoria do Scrum, estamos nos referindo aos valores e pilares que fundamentam a aplicação dessa metodologia. Por outro lado, a prática envolve os eventos, artefatos, processos e etapas que fazem parte do framework Scrum.
+
+Isso acontece porque o Scrum Master é responsável pela eficácia da equipe Scrum, ou seja, garantir que todos os membros possam aplicar corretamente o processo Scrum.
+
+Vale ressaltar que o Scrum Master não atua como um fiscal de processos no projeto, nem assume as funções dos membros da equipe que não estão desempenhando suas respectivas tarefas. Pelo contrário, é a pessoa que ao exercer a função se torna menos necessária possível ao longo do projeto.
+
+O que isso significa?
+
+O Scrum Master deve:
+Aumentar a autonomia do time Scrum
+Ter um conhecimento técnico sobre Scrum
+Entender e saber lidar com pessoas
+A pessoa encarregada de desempenhar o papel precisa conceder autonomia à equipe Scrum, capacitando os membros no uso da ferramenta. Isso implica em ensinar como aplicar o Scrum e como adotar uma mentalidade alinhada com os princípios do Scrum. Assim, os membros do time consequem de autogerenciar e executar suas funções sem uma grande necessidade de interferência do Scrum Master.
+
+Para exercer essa função, a pessoa Scrum Master deve possuir um amplo conhecimento técnico sobre o Scrum, como mencionado anteriormente. Além desse conhecimento técnico, o Scrum Master deve possuir competências e habilidades comportamentais necessárias para desempenhar o papel, incluindo habilidades de lidar com pessoas.
+
+Essa responsabilidade recai sobre a pessoa Scrum Master, pois ela atua como uma observadora dentro da equipe durante todo o projeto. Ela é capaz de identificar quando surge um problema e um membro da equipe não o relata. Nesses momentos, a pessoa Scrum Master precisa intervir e abordar a situação, seja ao se impor diretamente ou ao chamar o membro da equipe para uma conversa.
+
+Por estar em constante contato com as pessoas, a pessoa Scrum Master precisa possuir habilidades de comunicação e facilitação de eventos e reuniões. Essas habilidades são essenciais para garantir uma comunicação efetiva dentro da equipe e facilitar a realização de eventos e reuniões relacionados ao Scrum.
+
+Scrum Master e Gerente de projetos
+Imagem comparativa entre Scrum Master e Gerente de Projetos. À esquerda, há um retângulo laranja com o texto "Scrum Master" em branco. Uma seta aponta para a direita, indicando o texto "Gerente de projeto". Abaixo dele, uma seta aponta para baixo, direcionando o texto "Orienta e gerencia o time para atingir os objetivos do projeto".
+
+Em uma linguagem mais voltada para o ambiente de negócios, pode-se dizer que o Scrum Master desempenha um papel semelhante ao de um gerente de projetos. Isso porque a pessoa Scrum Master deve orientar e gerenciar a equipe para atingir os objetivos do projeto.
+
+Além das competências mencionadas anteriormente, é fundamental que aqueles que desejam gerenciar outras pessoas conheçam a empresa em que o projeto está ocorrendo e seus colegas. Isso ocorre porque esses indivíduos precisarão constantemente elevar a equipe, promovendo uma comunicação mais aberta e reduzindo as barreiras, com o objetivo comum de entregar uma solução específica em um determinado projeto.
+
+Conforme mencionado anteriormente, o conceito de equipe no Scrum é fundamental. Portanto, o papel do Scrum Master é crucial para garantir a integração contínua das pessoas, promovendo um trabalho mais unido.
+
+Responsabilidade da pessoa Scrum Master
+e forma geral, podemos dizer que a principal responsabilidade de uma pessoa Scrum Master são:
+
+Garantir os valores, práticas e regras do Scrum
+Remover barreiras
+Dar feedbacks
+Garantir a produtividade do time (eficácia no Scrum Guide)
+Organizar e facilitar eventos Scrum
+O Scrum Master tem a responsabilidade de assegurar que a equipe esteja alinhada com os valores e princípios do Scrum, bem como seguir as práticas e regras estabelecidas pelo framework. Também atua como um pessoa facilitadora, identificando e removendo quaisquer obstáculos ou impedimentos que possam atrapalhar o progresso da equipe, seja em relação a recursos, comunicação ou qualquer outro aspecto.
+
+Além disso, desempenha um papel crucial no fornecimento de feedbacks, tanto positivos quanto negativos. Isso ajuda a equipe a melhorar seu desempenho, reconhecendo o bom trabalho realizado e fornecendo orientação construtiva quando necessário.
+
+Também trabalha para garantir a eficácia do time, seguindo as diretrizes estabelecidas pelo Scrum Guide. Isso envolve auxiliar a equipe a cumprir os objetivos do projeto dentro dos prazos estabelecidos, mantendo um fluxo de trabalho consistente e focado.
+
+Por fim, a pessoa Scrum Master é responsável por organizar e facilitar os eventos do Scrum, como reuniões diárias, planejamentos, revisões e retrospectivas. Esses eventos são essenciais para manter a transparência, a colaboração e o progresso do projeto.
+
+Outro ponto importante para deixarmos claro é que a pessoa Scrum Master apenas orienta e facilita o processo Scrum, não tomando as decisões.Como visto na aula passada, isso é responsabilidade do Product Owner.
+
+O envolvimento de uma pessoa Scrum Master com a equipe ocorre tanto durante os eventos, como sprint planning ou review, quanto no dia a dia do time. Ela realiza uma leitura constante para identificar quando é necessário intervir ou quando sua ajuda é solicitada para fornecer orientação.
+
+Agora que já entendemos sobre o Scrum Master, vamos compreender as atribuições de um time de pessoas desenvolvedoras.
+
+Até mais!
+
+@@04
+Responsabilidades Scrum Master
+
+A pessoa Scrum Master atua como líder, apoiando o time na busca pela alta performance, na entrega de um produto de qualidade e no sucesso do projeto como um todo.
+Com base nisso, marque a alternativa que traz uma responsabilidade de uma pessoa Scrum Master em relação ao time Scrum.
+
+Definir as tarefas que cada membro da equipe deve realizar.
+ 
+Uma pessoa Scrum Master não é responsável por definir as tarefas específicas que cada membro da equipe deve realizar. Essa é uma decisão que é tomada em conjunto pela equipe durante a Sprint Planning, com base nas prioridades definidas pela pessoa Product Owner, nas habilidades e na disponibilidade dos membros da equipe.
+Alternativa incorreta
+Resolver todos os conflitos internos na equipe.
+ 
+Embora a pessoa Scrum Master deva ajudar a equipe a resolver conflitos e questões internas, a responsabilidade final de resolver conflitos é dos próprios membros da equipe. A pessoa Scrum Master atua como facilitadora para ajudar a equipe a encontrar soluções, mas não é sua responsabilidade resolver todos os conflitos.
+Alternativa incorreta
+Tomar todas as decisões importantes em nome da equipe.
+ 
+Uma pessoa Scrum Master não deve tomar todas as decisões importantes em nome da equipe. Essa pessoa atua como facilitadora e defensora da equipe, ajudando as pessoas integrantes a tomar decisões informadas e colaborativas. A responsabilidade pela tomada de decisões é compartilhada entre todos os membros da equipe, com base na abordagem colaborativa do Scrum.
+Alternativa incorreta
+Auxiliar o time a entender e seguir as práticas e os valores do Scrum.
+ 
+A principal responsabilidade de uma pessoa Scrum Master é auxiliar o time a entender e seguir os processos e os valores do Scrum, promovendo uma cultura ágil e facilitando a adoção das melhores práticas pela equipe. Esse trabalho envolve atuar como uma pessoa facilitadora, para garantir que o time se comunique de forma eficaz, colabore e trabalhe em conjunto para alcançar os objetivos da Sprint e do projeto como um todo.
+
+@@05
+Development Team
+
+Para que o time Scrum esteja completo, é necessário contar com as pessoas responsáveis pelo desenvolvimento da solução proposta no projeto. Nesta aula, nosso foco será no time de pessoas desenvolvedoras ou Development Team.
+Com base nos exemplos das aulas anteriores, tanto em um restaurante quanto em um time de músicos, o objetivo é desenvolver algo específico, como refeições e músicas. Tanto o maestro quanto a pessoa atendente, que repassa as solicitações dos clientes à equipe de cozinha, possuem uma coisa em comum: cada pessoa é responsável por uma tarefa específica.
+
+Para assim, o produto final deve ser desenvolvido para satisfazer as necessidades e desejos das pessoa usuárias e clientes.
+
+Por exemplo, quando a pessoa atendente repassa um pedido de hambúrguer para a equipe de cozinha, é crucial que cada membro da equipe saiba qual é a sua função específica para garantir a entrega do hambúrguer solicitado. Como preparar a salada, fritar o hambúrguer até a montagem final do lanche.
+
+No contexto do Scrum, um problema que pode surgir é a falta de clareza em relação às funções dentro do time. Na prática, a alocação de um membro para realizar uma tarefa específica é baseada em suas habilidades ou afinidades com a tarefa a ser cumprida. Pode haver situações em que a formação acadêmica ou profissional de determinado membro do time seja relevante para especificar a tarefa a ser cumprida.
+
+De fato, no contexto do Scrum, não há uma regra fixa para a alocação de tarefas, pois isso pode variar de acordo com o tipo de projeto e as necessidades específicas da equipe. O que é importante é que cada pessoa do time tenha clareza sobre sua função e também entenda qual é a função de cada outro membro.
+
+O Papel das Pessoas Desenvolvedoras no Time Scrum
+Fluxo com as habilidades necessárias para um time de pessoas desenvolvedoras. No topo, há um retângulo laranja com o texto "Development Team". Abaixo dele, existem três setas que indicam as seguintes habilidades: "Proatividade", "Colaboração" e "Autogerenciamento".
+
+Quando cada membro do time possui clareza sobre sua contribuição no projeto, as entregas se tornam mais eficientes e ágeis. Além disso, é essencial que as pessoas desenvolvedoras sejam proativas e capazes de se autogerenciar, compreendendo como e quando executar cada tarefa, sem depender exclusivamente das lideranças do time Scrum.
+
+Um perfil colaborativo é altamente desejável para uma pessoa desenvolvedora, pois as interações e conversas constantes são essenciais durante o desenvolvimento do projeto. Nas aulas anteriores, mencionamos a importância da Daily Scrum, que consiste em reuniões diárias para acompanhar o progresso do projeto.
+
+Além disso, existem outras reuniões de projeto nas quais os membros do time de desenvolvimento precisam participar. Nessas ocasiões, a colaboração efetiva se torna fundamental para garantir uma comunicação clara e alinhada entre os membros da equipe.
+
+Imagem com a responsabilidade do time de pessoas desenvolvedoras. À esquerda, há um retângulo laranja com o texto "Development Team" em branco. Uma seta aponta para a direita, indicando o texto "Faz o produto". Abaixo dele, uma seta aponta para baixo, direcionando o texto "Guiado pelo Product Owner, a cada Sprint, entrega parte da solução".
+
+Resumidamente, o time de pessoas desenvolvedoras tem a responsabilidade de criar o produto com base nas orientações do Product Owner. Ou seja, o Product Owner prioriza determinadas tarefas que serão repassadas ao time para desenvolvimento. A cada sprint, o time entrega um incremento de produto, que consiste em uma parte da solução desenvolvida para obter feedback.
+
+Scrum Team e Development Team
+Há algumas diferenças entre o time Scrum e o time de pessoas desenvolvedoras.
+
+A diferença central reside no fato de que o time Scrum engloba todas as pessoas envolvidas em um determinado projeto, como o Product Owner, Scrum Master e outros stakeholders. Por outro lado, o time de desenvolvimento refere-se especificamente às pessoas responsáveis por criar a solução em si. No caso de um projeto de software, seriam as pessoas desenvolvedoras, engenheiras e outros profissionais envolvidos nessa tarefa.
+
+Normalmente, um time de pessoas desenvolvedoras é composto por cerca de 10 membros, embora isso possa variar. No entanto, é essencial que a equipe não seja muito grande, para facilitar a comunicação e a colaboração entre os seus membros. Manter um tamanho adequado permite que o trabalho flua de maneira mais eficiente e coesa dentro do time.
+
+Responsabilidades do time de pessoas desenvolvedoras
+Elaborar um plano para a Sprint (Sprint Backlog)
+Determinar tecnicamente um incremento
+Coordenar e executar seu próprio trabalho
+Garantir a melhoria contínua do produto
+Informar impedimentos
+As responsabilidades desse time são elaborar um plano para as sprints, determinar tecnicamente um incremento de produto, isto é, definir o que deve ser entregue em cada sprint como parte do produto em desenvolvimento. Além disso, precisa coordenar e executar o próprio trabalho, o que está relacionado ao autogerenciamento.
+
+São responsáveis também por garantir a melhoria contínua do produto. Isso significa que devem buscar constantemente maneiras de aprimorar a solução, identificar oportunidades de otimização e implementar melhorias de forma iterativa a cada sprint.
+
+Além disso, o time de pessoas desenvolvedoras também tem a responsabilidade de informar impedimentos. Eles devem ser proativos ao identificar e comunicar quaisquer obstáculos ou dificuldades que possam estar impactando o progresso do projeto, para que essas questões possam ser resolvidas de forma ágil e eficaz.
+
+Um exemplo disso ocorre quando um membro do time não consegue entregar as demandas dentro do prazo estabelecido, o que pode resultar em atrasos no projeto. Nesse caso, é essencial que haja transparência, e a pessoa deve comunicar aos colegas de equipe e, principalmente, ao Scrum Master, que é responsável por garantir a aplicação do Scrum.
+
+Essa comunicação permite que o time tome conhecimento dos impedimentos e possa encontrar soluções em conjunto, promovendo a colaboração e o apoio mútuo. Além disso, a responsabilidade de informar os impedimentos recai também sobre o Scrum Master, que pode auxiliar na remoção de barreiras e na busca por alternativas para manter o projeto dentro dos prazos estabelecidos.
+
+Dessa forma, a melhoria contínua do produto e o cumprimento dos objetivos do projeto são assegurados através da identificação e solução proativa de possíveis impedimentos.
+
+O principal propósito de um time de pessoas desenvolvedoras é solucionar problemas de usuários ou clientes. Portanto, é de responsabilidade do time obter feedback sobre o incremento do produto a cada sprint por parte dos usuários.
+
+Esse feedback é essencial para compreender se as necessidades estão sendo atendidas de forma satisfatória e identificar possíveis melhorias ou ajustes a serem realizados. Em outras palavras, agregar mais valor à solução em desenvolvimento. Também auxilia o time na análise do processo de trabalho, entendendo o que pode ser melhorado nas etapas do Scrum.
+
+Frase retirada do livro "Scrum: Gestão Ágil para Projetos de Sucesso"
+Os desenvolvedores mais efetivos são aqueles que se envolvem e se engajam integralmente. Desde o entendimento dos problemas a serem resolvidos até a definição, a implementação e a validação de soluções, trabalhando lado a lado com Product Owner, clientes, usuários e demais partes interessadas durante todo o processo.
+
+Rafael Sabbagh
+
+Encerramos mais uma aula, na qual exploramos os diversos papéis do Scrum. Agora, é hora de aprofundarmos nosso conhecimento nos elementos do Scrum e como cada um desses elementos se relaciona com os papéis que já foram apresentados.
+
+@@06
+Desafio: identificando papéis Scrum
+
+No Scrum, os papéis são fundamentais para a aplicação eficiente do framework. O Scrum define três papéis principais: o Product Owner, o Scrum Master e a equipe de Desenvolvimento. Cada papel tem responsabilidades específicas e contribui para o sucesso do projeto.
+Agora, relembre o problema que você apontou no desafio passado para ser resolvido com Scrum e elenque quem seriam as pessoas que assumiriam cada um dos papéis do framework nesse contexto específico. Explique porque você acha que cada uma dessas pessoas é a ideal para desempenhar os papéis de Product Owner, Scrum Master ou fazer parte do time de desenvolvimento.
+
+Sinta-se à vontade para compartilhar suas reflexões com seus e suas colegas de profissão no Discord Alura.
+
+Opinião do instrutor
+
+Para que você consiga analisar se a sua resposta está correta, vamos usar como exemplo fictício uma empresa chamada Tech Solutions, que é uma empresa de desenvolvimento de software. O gestor de projetos, chamado João, precisa escolher os membros de sua equipe Scrum para um novo projeto de desenvolvimento de um aplicativo de comércio eletrônico.
+Aqui estão os principais papéis do framework Scrum e os colaboradores que João atribuiu a cada um deles:
+
+Scrum Master: a pessoa Scrum Master é a responsável por garantir que a equipe Scrum siga as práticas e os valores do Scrum e remova quaisquer obstáculos que possam estar atrapalhando o progresso do projeto. João atribuiu a Ana, uma desenvolvedora experiente que já possui conhecimentos sólidos sobre o Scrum e habilidades de liderança, como a Scrum Master da equipe.
+
+Product Owner: a pessoa Product Owner é a responsável por representar os interesses dos stakeholders e definir as prioridades do backlog do produto. João atribuiu a Maria, uma analista de negócios que possui um bom entendimento dos requisitos dos clientes e das necessidades do mercado, como a Product Owner da equipe.
+
+Desenvolvedores: as pessoas desenvolvedoras são responsáveis por desenvolver o produto de acordo com as prioridades definidas pelo Product Owner e as práticas do Scrum. João atribuiu os seguintes colaboradores como desenvolvedores da equipe Scrum:
+
+Carlos: um desenvolvedor experiente com conhecimentos em várias linguagens de programação e habilidades de resolução de problemas.
+Laura: uma desenvolvedora júnior que recentemente se juntou à empresa, mas demonstrou grande potencial em projetos anteriores e mostrou entusiasmo em aprender mais sobre o Scrum.
+Rafael: um desenvolvedor sênior com experiência em desenvolvimento ágil e habilidades de liderança que podem ajudar a orientar os membros mais juniores da equipe.
+Gabriela: uma testadora de qualidade experiente com conhecimentos abrangentes em testes de software e automação de testes. Ela será responsável por garantir a qualidade do produto por meio de testes rigorosos.
+Essa é a equipe Scrum fictícia formada por João para o projeto de desenvolvimento do aplicativo de comércio eletrônico da Tech Solutions. Cada membro da equipe desempenhará um papel fundamental na implementação bem-sucedida do projeto, seguindo as práticas e os valores do Scrum.
+Se a sua resposta não foi exatamente como essa, não se preocupe! O importante é você compreender que cada situação/contexto/tipo de projeto exige uma reflexão personalizada para entender quem são as pessoas ideais para compor o time Scrum. Para realizar essa escolha, você tem que levar sempre em consideração as habilidades de cada membro da equipe, pensando sempre no que essa pessoa específica irá contribuir dentro do projeto. Seguindo essas dicas, fica mais fácil criar o seu time Scrum!
+
+@@07
+O que aprendemos?
+
+Nesta aula, você pôde:
+Identificar a composição de um time scrum, que compreende o Scrum Master, o Product Owner, o Development Team e demais stakeholders envolvidos em um projeto.
+Reconhecer quem é a pessoa Product Owner, profissional responsável por materializar as necessidades do usuário e representá-lo junto à empresa e à equipe de desenvolvimento do projeto. Assim como reconhecer qual é o seu papel dentro do Scrum, que envolve o gerenciamento eficaz do product backlog e a tomada de decisões em relação à solução em desenvolvimento.
+Reconhecer quem é o Scrum Master, profissional responsável por ensinar os valores, os artefatos e os processos do Scrum para todos os envolvidos no projeto, assim como compreender qual é o seu papel principal, que envolve coordenar a aplicação do framework, auxiliando o time a se desenvolver e autogerenciar.
+Identificar a responsabilidade de um Development Team, ou time de desenvolvimento, que envolve a criação da solução de ponta a ponta, sempre se baseando no product backlog criado pelo Product Owner.
